@@ -1,0 +1,64 @@
+name: Makler Weekly Crawler
+
+on:
+  # Jeden Montag um 07:00 Uhr Schweizer Zeit
+  schedule:
+    - cron: '0 6 * * 1'
+  
+  # Manuell per Knopfdruck startbar (jeder im Team)
+  workflow_dispatch:
+    inputs:
+      grund:
+        description: 'Warum wird der Scan gestartet?'
+        required: false
+        default: 'Manueller Scan'
+
+# Erlaubt GitHub Pages zu aktualisieren
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Code auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Pakete installieren
+        run: pip install anthropic requests
+
+      - name: Datenbank wiederherstellen
+        uses: actions/cache@v4
+        with:
+          path: weekly.db
+          key: weekly-db-${{ runner.os }}
+          restore-keys: weekly-db-
+
+      - name: Crawler starten
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python3 2_crawler.py
+
+      - name: Datenbank sichern
+        uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: weekly.db
+          key: weekly-db-${{ runner.os }}-${{ github.run_number }}
+
+      - name: Dashboard auf GitHub Pages publizieren
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          publish_branch: gh-pages
+          include_files: dashboard.html

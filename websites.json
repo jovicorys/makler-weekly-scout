@@ -1,0 +1,4072 @@
+{
+  "hamero.ch": {
+    "url": "https://www.hamero.ch",
+    "email": "tyler.aerni@hamero.ch",
+    "name": ""
+  },
+  "wealthservices.ch": {
+    "url": "https://www.wealthservices.ch",
+    "email": "olga@wealthservices.ch",
+    "name": ""
+  },
+  "kensington-international.com": {
+    "url": "https://www.kensington-international.com",
+    "email": "sandra.luethi@kensington-international.com",
+    "name": ""
+  },
+  "teresas-homes.ch": {
+    "url": "https://www.teresas-homes.ch",
+    "email": "teresa@teresas-homes.ch",
+    "name": "Teresa"
+  },
+  "hofmeister-immobilien.ch": {
+    "url": "https://www.hofmeister-immobilien.ch",
+    "email": "info@hofmeister-immobilien.ch",
+    "name": ""
+  },
+  "goldinger.ch": {
+    "url": "https://www.goldinger.ch",
+    "email": "kreuzlingen@goldinger.ch",
+    "name": ""
+  },
+  "refolio.ch": {
+    "url": "https://www.refolio.ch",
+    "email": "r.stutz@refolio.ch",
+    "name": "Stutz"
+  },
+  "burri-achermann.ch": {
+    "url": "https://www.burri-achermann.ch",
+    "email": "r.achermann@burri-achermann.ch",
+    "name": "Achermann"
+  },
+  "ackermann-immo.ch": {
+    "url": "https://www.ackermann-immo.ch",
+    "email": "a.ackermann@ackermann-immo.ch",
+    "name": "Adrian Ackermann"
+  },
+  "previs.ch": {
+    "url": "https://www.previs.ch",
+    "email": "fabienne.affolter@previs.ch",
+    "name": "Fabienne Affolter"
+  },
+  "schaeppi.ch": {
+    "url": "https://www.schaeppi.ch",
+    "email": "f.ajeti@schaeppi.ch",
+    "name": "Flora Ajeti"
+  },
+  "albrecht-naturgarten.ch": {
+    "url": "https://www.albrecht-naturgarten.ch",
+    "email": "info@albrecht-naturgarten.ch",
+    "name": "Albrecht"
+  },
+  "alpsestate.com": {
+    "url": "https://www.alpsestate.com",
+    "email": "info@alpsestate.com",
+    "name": "Alps Estate Team"
+  },
+  "alltreuhandgesellschaft.ch": {
+    "url": "https://www.alltreuhandgesellschaft.ch",
+    "email": "info@alltreuhandgesellschaft.ch",
+    "name": "Alt Treuhand Team"
+  },
+  "ambuehl-immo.ch": {
+    "url": "https://www.ambuehl-immo.ch",
+    "email": "info@ambuehl-immo.ch",
+    "name": "Ambühl Team"
+  },
+  "neuex-immobilien.ch": {
+    "url": "https://www.neuex-immobilien.ch",
+    "email": "info@neuex-immobilien.ch",
+    "name": "Amir Amidi"
+  },
+  "gartenbauundpflege.ch": {
+    "url": "https://www.gartenbauundpflege.ch",
+    "email": "ammann@gartenbauundpflege.ch",
+    "name": "Ammann"
+  },
+  "swisspartners.com": {
+    "url": "https://www.swisspartners.com",
+    "email": "marcel.ammann@swisspartners.com",
+    "name": "Marcel Ammann"
+  },
+  "brt-treuhand.ch": {
+    "url": "https://www.brt-treuhand.ch",
+    "email": "simon.ammann@brt-treuhand.ch",
+    "name": "Simon Ammann"
+  },
+  "anderegg-immobilien.ch": {
+    "url": "https://www.anderegg-immobilien.ch",
+    "email": "info@anderegg-immobilien.ch",
+    "name": "Manuel Anderegg"
+  },
+  "sosiega.ch": {
+    "url": "https://www.sosiega.ch",
+    "email": "annette@sosiega.ch",
+    "name": "Anette Andermatt"
+  },
+  "steinauer-immo.ch": {
+    "url": "https://www.steinauer-immo.ch",
+    "email": "immoshop@steinauer-immo.ch",
+    "name": "Lukas Andermatt"
+  },
+  "mellarius.ch": {
+    "url": "https://www.mellarius.ch",
+    "email": "karin.angst@mellarius.ch",
+    "name": "Karin Angst"
+  },
+  "immoanker.ch": {
+    "url": "https://www.immoanker.ch",
+    "email": "anker@immoanker.ch",
+    "name": "Anker"
+  },
+  "anmat.ch": {
+    "url": "https://www.anmat.ch",
+    "email": "info@anmat.ch",
+    "name": "Konrad Annen"
+  },
+  "aeplilaw.ch": {
+    "url": "https://www.aeplilaw.ch",
+    "email": "aepli@aeplilaw.ch",
+    "name": "Äpli"
+  },
+  "immoleague.ch": {
+    "url": "https://www.immoleague.ch",
+    "email": "francesco.arena@immoleague.ch",
+    "name": "Francesco Arena"
+  },
+  "fidura.ch": {
+    "url": "https://www.fidura.ch",
+    "email": "roland.arnold@fidura.ch",
+    "name": "Roland Arnold"
+  },
+  "arlewo.ch": {
+    "url": "https://www.arlewo.ch",
+    "email": "silvan.arzethauser@arlewo.ch",
+    "name": "Silvan Arzethauser"
+  },
+  "att-immobilien.ch": {
+    "url": "https://www.att-immobilien.ch",
+    "email": "info@att-immobilien.ch",
+    "name": "ATT Team"
+  },
+  "domba.ch": {
+    "url": "https://www.domba.ch",
+    "email": "oliver.bader@domba.ch",
+    "name": "Oliver Bader"
+  },
+  "bagnoloimmo.ch": {
+    "url": "https://www.bagnoloimmo.ch",
+    "email": "info@bagnoloimmo.ch",
+    "name": "Marcellina Bagnolo"
+  },
+  "baltrusch.ch": {
+    "url": "https://www.baltrusch.ch",
+    "email": "carmen@baltrusch.ch",
+    "name": "Carmen Baltrusch"
+  },
+  "bamert-realestate.ch": {
+    "url": "https://www.bamert-realestate.ch",
+    "email": "db@bamert-realestate.ch",
+    "name": "Daniel Bamert"
+  },
+  "exklusiv-immobilien.ch": {
+    "url": "https://www.exklusiv-immobilien.ch",
+    "email": "lorena.banfi@exklusiv-immobilien.ch",
+    "name": "Lorena Banfi"
+  },
+  "graffenried-liegenschaften.ch": {
+    "url": "https://www.graffenried-liegenschaften.ch",
+    "email": "alex.bangerter@graffenried-liegenschaften.ch",
+    "name": "Alex Bangerter"
+  },
+  "abendrot.ch": {
+    "url": "https://www.abendrot.ch",
+    "email": "stephan.bannwart@abendrot.ch",
+    "name": "Bannwart"
+  },
+  "alpinoro.ch": {
+    "url": "https://www.alpinoro.ch",
+    "email": "immo@alpinoro.ch",
+    "name": "Miguel Barbosa"
+  },
+  "tcagchur.ch": {
+    "url": "https://www.tcagchur.ch",
+    "email": "b.bardill@tcagchur.ch",
+    "name": "Beat Bardill"
+  },
+  "mls.uzh.ch": {
+    "url": "https://www.mls.uzh.ch",
+    "email": "konrad.basler@mls.uzh.ch",
+    "name": "Konrad Basler"
+  },
+  "mach4.immo": {
+    "url": "https://www.mach4.immo",
+    "email": "a.basset@mach4.immo",
+    "name": "Basset"
+  },
+  "uitikon.ch": {
+    "url": "https://www.uitikon.ch",
+    "email": "baetscher@uitikon.ch",
+    "name": "Rudolf Bätscher"
+  },
+  "baettig-immo.ch": {
+    "url": "https://www.baettig-immo.ch",
+    "email": "t.baettig@baettig-immo.ch",
+    "name": "Thomas Bättig"
+  },
+  "baumann-estate.ch": {
+    "url": "https://www.baumann-estate.ch",
+    "email": "claudio@baumann-estate.ch",
+    "name": "Claudio Baumann"
+  },
+  "baumann-gartenpflege.ch": {
+    "url": "https://www.baumann-gartenpflege.ch",
+    "email": "info@baumann-gartenpflege.ch",
+    "name": "Baumann"
+  },
+  "mozzattischlumpf.ch": {
+    "url": "https://www.mozzattischlumpf.ch",
+    "email": "baumgartner@mozzattischlumpf.ch",
+    "name": "Andreas Baumgartner"
+  },
+  "naroba.ch": {
+    "url": "https://www.naroba.ch",
+    "email": "info@naroba.ch",
+    "name": "Nadine Baumgartner"
+  },
+  "baumgartner-immobilien.ch": {
+    "url": "https://www.baumgartner-immobilien.ch",
+    "email": "a.baumgartner@baumgartner-immobilien.ch",
+    "name": "Alfred Baumgartner"
+  },
+  "revera-immobilien.ch": {
+    "url": "https://www.revera-immobilien.ch",
+    "email": "c.baumgartner@revera-immobilien.ch",
+    "name": "Carina Baumgartner"
+  },
+  "bearth-treuhand.ch": {
+    "url": "https://www.bearth-treuhand.ch",
+    "email": "gion.bearth@bearth-treuhand.ch",
+    "name": "Gion Bearth"
+  },
+  "beck-realestate.ch": {
+    "url": "https://www.beck-realestate.ch",
+    "email": "info@beck-realestate.ch",
+    "name": "Felix Beck"
+  },
+  "hig.ch": {
+    "url": "https://www.hig.ch",
+    "email": "leslie.beck@hig.ch",
+    "name": "Leslie Beck"
+  },
+  "beelermarbacher.ch": {
+    "url": "https://www.beelermarbacher.ch",
+    "email": "sb@beelermarbacher.ch",
+    "name": "Simeon Beeler"
+  },
+  "bvk.ch": {
+    "url": "https://www.bvk.ch",
+    "email": "jan-niklas.behr@bvk.ch",
+    "name": "Jan-Niklas Behr"
+  },
+  "itp.phys.ethz.ch": {
+    "url": "https://www.itp.phys.ethz.ch",
+    "email": "nbeisert@itp.phys.ethz.ch",
+    "name": "Niklas Beisert"
+  },
+  "belmontimmo.ch": {
+    "url": "https://www.belmontimmo.ch",
+    "email": "info@belmontimmo.ch",
+    "name": "Belmont Team"
+  },
+  "immodream.swiss": {
+    "url": "https://www.immodream.swiss",
+    "email": "info@immodream.swiss",
+    "name": "Mike Benz"
+  },
+  "danielberg.ch": {
+    "url": "https://www.danielberg.ch",
+    "email": "info@danielberg.ch",
+    "name": "Berg"
+  },
+  "valcasa.ch": {
+    "url": "https://www.valcasa.ch",
+    "email": "info@valcasa.ch",
+    "name": "Luzi Bergamin"
+  },
+  "gilli-garten.ch": {
+    "url": "https://www.gilli-garten.ch",
+    "email": "berger@gilli-garten.ch",
+    "name": "Berger"
+  },
+  "outlook.de": {
+    "url": "https://www.outlook.de",
+    "email": "berger.pascal@outlook.de",
+    "name": "Pascal Berger"
+  },
+  "berka-waldstatt.ch": {
+    "url": "https://www.berka-waldstatt.ch",
+    "email": "db@berka-waldstatt.ch",
+    "name": "Doris Berka"
+  },
+  "bernergartenbau.ch": {
+    "url": "https://www.bernergartenbau.ch",
+    "email": "info@bernergartenbau.ch",
+    "name": "Berner"
+  },
+  "bbgarten.ch": {
+    "url": "https://www.bbgarten.ch",
+    "email": "info@bbgarten.ch",
+    "name": "Besl"
+  },
+  "rickys-immobilien.ch": {
+    "url": "https://www.rickys-immobilien.ch",
+    "email": "r.bieler@rickys-immobilien.ch",
+    "name": "Riccardo Bieler"
+  },
+  "dv-immo.ch": {
+    "url": "https://www.dv-immo.ch",
+    "email": "m.bieri@dv-immo.ch",
+    "name": "Marcel Bieri"
+  },
+  "hh-immo.ch": {
+    "url": "https://www.hh-immo.ch",
+    "email": "info@hh-immo.ch",
+    "name": "Eros Bilgerig"
+  },
+  "mobillag.ch": {
+    "url": "https://www.mobillag.ch",
+    "email": "y.-m.bill@mobillag.ch",
+    "name": "Yves Bill"
+  },
+  "birchler-gaerten.ch": {
+    "url": "https://www.birchler-gaerten.ch",
+    "email": "reto@birchler-gaerten.ch",
+    "name": "Birchler"
+  },
+  "wohngut.ch": {
+    "url": "https://www.wohngut.ch",
+    "email": "kaspar.birchler@wohngut.ch",
+    "name": "Kaspar Birchler"
+  },
+  "immo-argo.ch": {
+    "url": "https://www.immo-argo.ch",
+    "email": "a.birrer@immo-argo.ch",
+    "name": "Armando Birrer"
+  },
+  "mulgainvest.com": {
+    "url": "https://www.mulgainvest.com",
+    "email": "alexander.bischoff@mulgainvest.com",
+    "name": "Alexander Bischoff"
+  },
+  "patrimonium.ch": {
+    "url": "https://www.patrimonium.ch",
+    "email": "vincent.blanchard@patrimonium.ch",
+    "name": "Vincent Blanchard"
+  },
+  "propertyone.ch": {
+    "url": "https://www.propertyone.ch",
+    "email": "anna.blechschmidt@propertyone.ch",
+    "name": "Anna Blechschmidt"
+  },
+  "immobilia-ag.ch": {
+    "url": "https://www.immobilia-ag.ch",
+    "email": "erich.bloechliger@immobilia-ag.ch",
+    "name": "Erik Blöchliger"
+  },
+  "retreag.ch": {
+    "url": "https://www.retreag.ch",
+    "email": "ralf.boom@retreag.ch",
+    "name": "Ralf Bloom"
+  },
+  "blum-partner.com": {
+    "url": "https://www.blum-partner.com",
+    "email": "richard.blum@blum-partner.com",
+    "name": "Richard Blum"
+  },
+  "park-immobilien.ch": {
+    "url": "https://www.park-immobilien.ch",
+    "email": "k.blunschi@park-immobilien.ch",
+    "name": "Kurt Blunschi"
+  },
+  "atrega.ch": {
+    "url": "https://www.atrega.ch",
+    "email": "abhomepage@atrega.ch",
+    "name": "Bodmer"
+  },
+  "rahnbodmer.ch": {
+    "url": "https://www.rahnbodmer.ch",
+    "email": "rene.bodmer@rahnbodmer.ch",
+    "name": "Rene Bodmer"
+  },
+  "bbr-ag.ch": {
+    "url": "https://www.bbr-ag.ch",
+    "email": "helen.boegle@bbr-ag.ch",
+    "name": "Helen Bögle"
+  },
+  "boll-immobilien.ch": {
+    "url": "https://www.boll-immobilien.ch",
+    "email": "info@boll-immobilien.ch",
+    "name": "Boll"
+  },
+  "bollaglegal.ch": {
+    "url": "https://www.bollaglegal.ch",
+    "email": "jacob.bollag@bollaglegal.ch",
+    "name": "Jacob Bollag"
+  },
+  "zkb.ch": {
+    "url": "https://www.zkb.ch",
+    "email": "madlaina.bollhalder@zkb.ch",
+    "name": "Madlaina Bollhalder"
+  },
+  "asga.ch": {
+    "url": "https://www.asga.ch",
+    "email": "benjamin.bolt@asga.ch",
+    "name": "Benjamin Bolt"
+  },
+  "usz.ch": {
+    "url": "https://www.usz.ch",
+    "email": "francesca.bonassintempesta@usz.ch",
+    "name": "Francesca Bonassin"
+  },
+  "partnet.ch": {
+    "url": "https://www.partnet.ch",
+    "email": "immobilien@partnet.ch",
+    "name": "Justine Bopp"
+  },
+  "ubs.com": {
+    "url": "https://www.ubs.com",
+    "email": "jaksa.bosnjak@ubs.com",
+    "name": "Jaksa Bosnjak"
+  },
+  "bosshard-immo.ch": {
+    "url": "https://www.bosshard-immo.ch",
+    "email": "info@bosshard-immo.ch",
+    "name": "Kurt Bosshard"
+  },
+  "cbcit.ch": {
+    "url": "https://www.cbcit.ch",
+    "email": "info@cbcit.ch",
+    "name": "Christian Bosshard"
+  },
+  "1b1.ch": {
+    "url": "https://www.1b1.ch",
+    "email": "info@1b1.ch",
+    "name": "Mohamed Boulad"
+  },
+  "bempg.com": {
+    "url": "https://www.bempg.com",
+    "email": "m.brachfeld@bempg.com",
+    "name": "Michael Brachfeld"
+  },
+  "homeleader.ch": {
+    "url": "https://www.homeleader.ch",
+    "email": "simon.braem@homeleader.ch",
+    "name": "Simon Bräm"
+  },
+  "homesmore.ch": {
+    "url": "https://www.homesmore.ch",
+    "email": "andreas.braendli@homesmore.ch",
+    "name": "Andreas Brändli"
+  },
+  "zeitraum-ag.ch": {
+    "url": "https://www.zeitraum-ag.ch",
+    "email": "kevin.braunwalder@zeitraum-ag.ch",
+    "name": "Kevin Braunwalder"
+  },
+  "rtag.ch": {
+    "url": "https://www.rtag.ch",
+    "email": "carmen.breitenmoser@rtag.ch",
+    "name": "Carmen Breitenmoser"
+  },
+  "brivio-immobilien.ch": {
+    "url": "https://www.brivio-immobilien.ch",
+    "email": "info@brivio-immobilien.ch",
+    "name": "Marco Brivio"
+  },
+  "bkl-recht.ch": {
+    "url": "https://www.bkl-recht.ch",
+    "email": "roland.bruhin@bkl-recht.ch",
+    "name": "Roland Bruhin"
+  },
+  "egligruen.ch": {
+    "url": "https://www.egligruen.ch",
+    "email": "info@egligruen.ch",
+    "name": "Brühwiler"
+  },
+  "brun.swiss": {
+    "url": "https://www.brun.swiss",
+    "email": "adrian.brun@brun.swiss",
+    "name": "Adrian Brun"
+  },
+  "brunner-gartenbau.ch": {
+    "url": "https://www.brunner-gartenbau.ch",
+    "email": "info@brunner-gartenbau.ch",
+    "name": "Brunner"
+  },
+  "lagea.ch": {
+    "url": "https://www.lagea.ch",
+    "email": "support@lagea.ch",
+    "name": "Brunner"
+  },
+  "grundwert.ch": {
+    "url": "https://www.grundwert.ch",
+    "email": "sb@grundwert.ch",
+    "name": "Brunner"
+  },
+  "brunoldimmobilien.ch": {
+    "url": "https://www.brunoldimmobilien.ch",
+    "email": "info@brunoldimmobilien.ch",
+    "name": "Brunold Team"
+  },
+  "brunonimartin.ch": {
+    "url": "https://www.brunonimartin.ch",
+    "email": "immo@brunonimartin.ch",
+    "name": "Désirée Brunoni"
+  },
+  "bruppacher.ch": {
+    "url": "https://www.bruppacher.ch",
+    "email": "e.bruppacher@bruppacher.ch",
+    "name": "Erich Bruppacher"
+  },
+  "cph.ch": {
+    "url": "https://www.cph.ch",
+    "email": "gerold.bruetsch@cph.ch",
+    "name": "Gerold Brütsch"
+  },
+  "goeldi-immobilien.ch": {
+    "url": "https://www.goeldi-immobilien.ch",
+    "email": "buechel@goeldi-immobilien.ch",
+    "name": "Diego Büchel"
+  },
+  "uster-ag.ch": {
+    "url": "https://www.uster-ag.ch",
+    "email": "info@uster-ag.ch",
+    "name": "Roger Bucher"
+  },
+  "gartenbau-bucher.ch": {
+    "url": "https://www.gartenbau-bucher.ch",
+    "email": "info@gartenbau-bucher.ch",
+    "name": "Bucher"
+  },
+  "bucher-gartenbau.ch": {
+    "url": "https://www.bucher-gartenbau.ch",
+    "email": "p.bucher@bucher-gartenbau.ch",
+    "name": "Bucher"
+  },
+  "immobilien-bucher.ch": {
+    "url": "https://www.immobilien-bucher.ch",
+    "email": "t.bucher@immobilien-bucher.ch",
+    "name": "Bucher"
+  },
+  "buchergaerten.ch": {
+    "url": "https://www.buchergaerten.ch",
+    "email": "info@buchergaerten.ch",
+    "name": "Bucher Team"
+  },
+  "adexis.ch": {
+    "url": "https://www.adexis.ch",
+    "email": "simone.buechi@adexis.ch",
+    "name": "Simone Büchi"
+  },
+  "bimmo.ch": {
+    "url": "https://www.bimmo.ch",
+    "email": "philipp.buechler@bimmo.ch",
+    "name": "Philipp Büchler"
+  },
+  "anth.ch": {
+    "url": "https://www.anth.ch",
+    "email": "rb@anth.ch",
+    "name": "Büchler"
+  },
+  "buechler-immo.ch": {
+    "url": "https://www.buechler-immo.ch",
+    "email": "reto.buechler@buechler-immo.ch",
+    "name": "Reto Büchler"
+  },
+  "buchtergaerten.ch": {
+    "url": "https://www.buchtergaerten.ch",
+    "email": "info@buchtergaerten.ch",
+    "name": "Buchter Team"
+  },
+  "provimmo.ch": {
+    "url": "https://www.provimmo.ch",
+    "email": "ab@provimmo.ch",
+    "name": "Bühler"
+  },
+  "buehrerpartner.ch": {
+    "url": "https://www.buehrerpartner.ch",
+    "email": "pb@buehrerpartner.ch",
+    "name": "Patrick Bührer"
+  },
+  "bachmanngarten.ch": {
+    "url": "https://www.bachmanngarten.ch",
+    "email": "stefan@bachmanngarten.ch",
+    "name": "Bürgler"
+  },
+  "immotrades.ch": {
+    "url": "https://www.immotrades.ch",
+    "email": "info@immotrades.ch",
+    "name": "Olivier Buri"
+  },
+  "immosell.ch": {
+    "url": "https://www.immosell.ch",
+    "email": "marco.burn@immosell.ch",
+    "name": "Burn"
+  },
+  "confidar.ch": {
+    "url": "https://www.confidar.ch",
+    "email": "martin.caduff@confidar.ch",
+    "name": "Martin Caduff"
+  },
+  "crameripartner.ch": {
+    "url": "https://www.crameripartner.ch",
+    "email": "ec@crameripartner.ch",
+    "name": "Ester Cameri"
+  },
+  "cami-casa.ch": {
+    "url": "https://www.cami-casa.ch",
+    "email": "info@cami-casa.ch",
+    "name": "Caminada"
+  },
+  "stadelmann-candinas.ch": {
+    "url": "https://www.stadelmann-candinas.ch",
+    "email": "j.candinas@stadelmann-candinas.ch",
+    "name": "Jessy Candinas"
+  },
+  "rrt.ch": {
+    "url": "https://www.rrt.ch",
+    "email": "r.capeder@rrt.ch",
+    "name": "Ralf Capeder"
+  },
+  "ameca.ch": {
+    "url": "https://www.ameca.ch",
+    "email": "caratsch@ameca.ch",
+    "name": "Nicola Caretsch"
+  },
+  "caruso.ch": {
+    "url": "https://www.caruso.ch",
+    "email": "info@caruso.ch",
+    "name": "Giovanni Caruso"
+  },
+  "optimum-immo.ch": {
+    "url": "https://www.optimum-immo.ch",
+    "email": "fabian.casanova@optimum-immo.ch",
+    "name": "Fabian Casanova"
+  },
+  "repeople.net": {
+    "url": "https://www.repeople.net",
+    "email": "pcaspani@repeople.net",
+    "name": "Paulo Caspani"
+  },
+  "tribeg-treuhand.ch": {
+    "url": "https://www.tribeg-treuhand.ch",
+    "email": "d.cassani@tribeg-treuhand.ch",
+    "name": "Cassani"
+  },
+  "cathrein.ch": {
+    "url": "https://www.cathrein.ch",
+    "email": "martin@cathrein.ch",
+    "name": "Cathrein"
+  },
+  "gartenbau-cavallo.ch": {
+    "url": "https://www.gartenbau-cavallo.ch",
+    "email": "info@gartenbau-cavallo.ch",
+    "name": "Cavallo Team"
+  },
+  "cavegn-immobilien.ch": {
+    "url": "https://www.cavegn-immobilien.ch",
+    "email": "friedli@cavegn-immobilien.ch",
+    "name": "Stephanie Cavegn"
+  },
+  "aureon-immobilien.ch": {
+    "url": "https://www.aureon-immobilien.ch",
+    "email": "chresta@aureon-immobilien.ch",
+    "name": "Helene Chresta"
+  },
+  "wmp.ch": {
+    "url": "https://www.wmp.ch",
+    "email": "christen@wmp.ch",
+    "name": "Janine Christen"
+  },
+  "gartengestaltung-primavera.ch": {
+    "url": "https://www.gartengestaltung-primavera.ch",
+    "email": "info@gartengestaltung-primavera.ch",
+    "name": "Christen"
+  },
+  "christoffel-liegenschaften.ch": {
+    "url": "https://www.christoffel-liegenschaften.ch",
+    "email": "hc@christoffel-liegenschaften.ch",
+    "name": "Hansjürg Christoffel"
+  },
+  "prestige.ch": {
+    "url": "https://www.prestige.ch",
+    "email": "nicolas.ciz@prestige.ch",
+    "name": "Nicolas Ciz"
+  },
+  "loga.ch": {
+    "url": "https://www.loga.ch",
+    "email": "roberto@loga.ch",
+    "name": "Roberto Clavadätscher"
+  },
+  "vivanovum.ch": {
+    "url": "https://www.vivanovum.ch",
+    "email": "ec@vivanovum.ch",
+    "name": "Emir Colakovic"
+  },
+  "colombo-gaerten.ch": {
+    "url": "https://www.colombo-gaerten.ch",
+    "email": "info@colombo-gaerten.ch",
+    "name": "Colombo Team"
+  },
+  "cmimmo.ch": {
+    "url": "https://www.cmimmo.ch",
+    "email": "conrad@cmimmo.ch",
+    "name": "Alfred Conrad"
+  },
+  "cki.ch": {
+    "url": "https://www.cki.ch",
+    "email": "info@cki.ch",
+    "name": "Conrad Team"
+  },
+  "costa-immo.ch": {
+    "url": "https://www.costa-immo.ch",
+    "email": "info@costa-immo.ch",
+    "name": "Leandro Costa"
+  },
+  "nobilimmo.ch": {
+    "url": "https://www.nobilimmo.ch",
+    "email": "cristina.cotoia@nobilimmo.ch",
+    "name": "Cristina Cotoia"
+  },
+  "precisengadin.ch": {
+    "url": "https://www.precisengadin.ch",
+    "email": "info@precisengadin.ch",
+    "name": "Angela Crameri"
+  },
+  "immocroce.ch": {
+    "url": "https://www.immocroce.ch",
+    "email": "gabriele.croce@immocroce.ch",
+    "name": "Gabriele Croce"
+  },
+  "dagostino-immo.ch": {
+    "url": "https://www.dagostino-immo.ch",
+    "email": "info@dagostino-immo.ch",
+    "name": "Sergio D'Agostino"
+  },
+  "youfirstrealestate.ch": {
+    "url": "https://www.youfirstrealestate.ch",
+    "email": "youfirstrealestate@youfirstrealestate.ch",
+    "name": "D'Angelo"
+  },
+  "daehnimmobilien.ch": {
+    "url": "https://www.daehnimmobilien.ch",
+    "email": "bd@daehnimmobilien.ch",
+    "name": "Dähn"
+  },
+  "ad-immobilien.ch": {
+    "url": "https://www.ad-immobilien.ch",
+    "email": "info@ad-immobilien.ch",
+    "name": "Dalipi"
+  },
+  "mountainflair.ch": {
+    "url": "https://www.mountainflair.ch",
+    "email": "immo@mountainflair.ch",
+    "name": "Conradin De Giorgi"
+  },
+  "baerzproperty.com": {
+    "url": "https://www.baerzproperty.com",
+    "email": "keesjan@baerzproperty.com",
+    "name": "Kees Jan de Jong"
+  },
+  "delucaimmo.ch": {
+    "url": "https://www.delucaimmo.ch",
+    "email": "info@delucaimmo.ch",
+    "name": "Theres De Luca"
+  },
+  "premium-homes.ch": {
+    "url": "https://www.premium-homes.ch",
+    "email": "giuliano.deluca@premium-homes.ch",
+    "name": "Giuliano De Luca"
+  },
+  "deflorin-ag.ch": {
+    "url": "https://www.deflorin-ag.ch",
+    "email": "fabio.deflorin@deflorin-ag.ch",
+    "name": "Fabio Deflorin"
+  },
+  "hev-uster.ch": {
+    "url": "https://www.hev-uster.ch",
+    "email": "info@hev-uster.ch",
+    "name": "Rolf Denzler"
+  },
+  "liegenschafter.ch": {
+    "url": "https://www.liegenschafter.ch",
+    "email": "info@liegenschafter.ch",
+    "name": "Thomas Denzler"
+  },
+  "alesanorealestate.ch": {
+    "url": "https://www.alesanorealestate.ch",
+    "email": "adc@alesanorealestate.ch",
+    "name": "Alessio Di Cianni"
+  },
+  "dimaria-immobilien.ch": {
+    "url": "https://www.dimaria-immobilien.ch",
+    "email": "info@dimaria-immobilien.ch",
+    "name": "Raphael Di Maria"
+  },
+  "diaz-consulting.ch": {
+    "url": "https://www.diaz-consulting.ch",
+    "email": "nicola@diaz-consulting.ch",
+    "name": "Nicola Diaz"
+  },
+  "camenzind-gartenpflege.ch": {
+    "url": "https://www.camenzind-gartenpflege.ch",
+    "email": "info@camenzind-gartenpflege.ch",
+    "name": "Diener"
+  },
+  "kompass-immobilien.ch": {
+    "url": "https://www.kompass-immobilien.ch",
+    "email": "barbara.dietrich@kompass-immobilien.ch",
+    "name": "Barbara Dietrich"
+  },
+  "immosteg.ch": {
+    "url": "https://www.immosteg.ch",
+    "email": "r.dietz@immosteg.ch",
+    "name": "Roger Marco Dietz"
+  },
+  "huusverchauf.ch": {
+    "url": "https://www.huusverchauf.ch",
+    "email": "s.dimmeler@huusverchauf.ch",
+    "name": "Sebastian Dimmeler"
+  },
+  "grundgut.ch": {
+    "url": "https://www.grundgut.ch",
+    "email": "info@grundgut.ch",
+    "name": "Agush Dina"
+  },
+  "jbre.ch": {
+    "url": "https://www.jbre.ch",
+    "email": "estella.disilvestro@jbre.ch",
+    "name": "Estella Disilvestro"
+  },
+  "variagarten.ch": {
+    "url": "https://www.variagarten.ch",
+    "email": "info@variagarten.ch",
+    "name": "Dober"
+  },
+  "doberimmobilien.ch": {
+    "url": "https://www.doberimmobilien.ch",
+    "email": "info@doberimmobilien.ch",
+    "name": "Daniela Dober"
+  },
+  "pd-gartenbau.ch": {
+    "url": "https://www.pd-gartenbau.ch",
+    "email": "info@pd-gartenbau.ch",
+    "name": "Donker"
+  },
+  "nobilis-estate.com": {
+    "url": "https://www.nobilis-estate.com",
+    "email": "doychinova@nobilis-estate.com",
+    "name": "Doychinova"
+  },
+  "realstone.ch": {
+    "url": "https://www.realstone.ch",
+    "email": "cara-isabelle.ducret@realstone.ch",
+    "name": "Cara-Isabelle Ducret"
+  },
+  "immobilienzentrum.biz": {
+    "url": "https://www.immobilienzentrum.biz",
+    "email": "md@immobilienzentrum.biz",
+    "name": "Dudler"
+  },
+  "pi2-immobilien.ch": {
+    "url": "https://www.pi2-immobilien.ch",
+    "email": "claudio.duerger@pi2-immobilien.ch",
+    "name": "Claudio Dürger"
+  },
+  "aula.ch": {
+    "url": "https://www.aula.ch",
+    "email": "jd@aula.ch",
+    "name": "Dürger"
+  },
+  "hd-immo.ch": {
+    "url": "https://www.hd-immo.ch",
+    "email": "r.durisch@hd-immo.ch",
+    "name": "Reto Dursch"
+  },
+  "eckhirsch.ch": {
+    "url": "https://www.eckhirsch.ch",
+    "email": "info@eckhirsch.ch",
+    "name": "Fabian Eckenstein"
+  },
+  "ecknauer.ch": {
+    "url": "https://www.ecknauer.ch",
+    "email": "info@ecknauer.ch",
+    "name": "Ecknauer Team"
+  },
+  "hev-aargau.ch": {
+    "url": "https://www.hev-aargau.ch",
+    "email": "salome.edelmann@hev-aargau.ch",
+    "name": "Salomé Edelmann"
+  },
+  "immobilia4.ch": {
+    "url": "https://www.immobilia4.ch",
+    "email": "mail@immobilia4.ch",
+    "name": "Roland Egger"
+  },
+  "helenegli.ch": {
+    "url": "https://www.helenegli.ch",
+    "email": "k.egli@helenegli.ch",
+    "name": "Kevin Egli"
+  },
+  "confidas.ch": {
+    "url": "https://www.confidas.ch",
+    "email": "pascale.egloff@confidas.ch",
+    "name": "Pascale Egloff"
+  },
+  "egolf-immobilien.ch": {
+    "url": "https://www.egolf-immobilien.ch",
+    "email": "mirco.egolf@egolf-immobilien.ch",
+    "name": "Mirco Egolf"
+  },
+  "egolf-immo.ch": {
+    "url": "https://www.egolf-immo.ch",
+    "email": "mirco.egolf@egolf-immo.ch",
+    "name": "Mirco Egolf"
+  },
+  "schnell.swiss": {
+    "url": "https://www.schnell.swiss",
+    "email": "adrien.eichenberger@schnell.swiss",
+    "name": "Adrien Eichenberger"
+  },
+  "eiseneggerag.ch": {
+    "url": "https://www.eiseneggerag.ch",
+    "email": "h.eisenegger@eiseneggerag.ch",
+    "name": "Heiner Eisenegger"
+  },
+  "elliscasis.ch": {
+    "url": "https://www.elliscasis.ch",
+    "email": "sandra@elliscasis.ch",
+    "name": "Elliscasis"
+  },
+  "westdoor.ch": {
+    "url": "https://www.westdoor.ch",
+    "email": "ye@westdoor.ch",
+    "name": "Yasin Elmali"
+  },
+  "elsener-garten.ch": {
+    "url": "https://www.elsener-garten.ch",
+    "email": "info@elsener-garten.ch",
+    "name": "Elsener"
+  },
+  "emmag.ch": {
+    "url": "https://www.emmag.ch",
+    "email": "o.emmenegger@emmag.ch",
+    "name": "Emmenegger"
+  },
+  "roeswiss.ch": {
+    "url": "https://www.roeswiss.ch",
+    "email": "toni@roeswiss.ch",
+    "name": "Toni Enderli"
+  },
+  "engadinvalleylifestyle.com": {
+    "url": "https://www.engadinvalleylifestyle.com",
+    "email": "info@engadinvalleylifestyle.com",
+    "name": "Engadin Valley Team"
+  },
+  "swisscom.com": {
+    "url": "https://www.swisscom.com",
+    "email": "joeri.engel@swisscom.com",
+    "name": "Jöri Engel"
+  },
+  "himmelrichpartner.ch": {
+    "url": "https://www.himmelrichpartner.ch",
+    "email": "epting@himmelrichpartner.ch",
+    "name": "Stefan Epting"
+  },
+  "fuchsundigel.ch": {
+    "url": "https://www.fuchsundigel.ch",
+    "email": "boris.ercegovic@fuchsundigel.ch",
+    "name": "Boris Ercegovic"
+  },
+  "burckhardt.swiss": {
+    "url": "https://www.burckhardt.swiss",
+    "email": "rafael.ernst@burckhardt.swiss",
+    "name": "Rafael Ernst"
+  },
+  "home-visit.ch": {
+    "url": "https://www.home-visit.ch",
+    "email": "info@home-visit.ch",
+    "name": "Ersöz"
+  },
+  "esimag.ch": {
+    "url": "https://www.esimag.ch",
+    "email": "info@esimag.ch",
+    "name": "Esimag"
+  },
+  "etter-immo.ch": {
+    "url": "https://www.etter-immo.ch",
+    "email": "info@etter-immo.ch",
+    "name": "Jürg Etter"
+  },
+  "verimag.ch": {
+    "url": "https://www.verimag.ch",
+    "email": "eugster@verimag.ch",
+    "name": "Matthias Eugster"
+  },
+  "excent.ch": {
+    "url": "https://www.excent.ch",
+    "email": "bruno.eugster@excent.ch",
+    "name": "Bruno Eugster"
+  },
+  "eusebio.ch": {
+    "url": "https://www.eusebio.ch",
+    "email": "seb@eusebio.ch",
+    "name": "Dionys Eusebio"
+  },
+  "falck.swiss": {
+    "url": "https://www.falck.swiss",
+    "email": "m.falck@falck.swiss",
+    "name": "Moritz Falck"
+  },
+  "federico-immobilien.ch": {
+    "url": "https://www.federico-immobilien.ch",
+    "email": "antonio.federico@federico-immobilien.ch",
+    "name": "Antonio Federico"
+  },
+  "felder-immobilientreuhand.ch": {
+    "url": "https://www.felder-immobilientreuhand.ch",
+    "email": "felder@felder-immobilientreuhand.ch",
+    "name": "Andreas Felder"
+  },
+  "fellmanngarten.ch": {
+    "url": "https://www.fellmanngarten.ch",
+    "email": "andre.fellmann@fellmanngarten.ch",
+    "name": "Fellmann"
+  },
+  "abia.ch": {
+    "url": "https://www.abia.ch",
+    "email": "fernandez@abia.ch",
+    "name": "Jessica Fernandez"
+  },
+  "immoseeker.ch": {
+    "url": "https://www.immoseeker.ch",
+    "email": "gioele.ferretti@immoseeker.ch",
+    "name": "Gioele Ferretti"
+  },
+  "mufag.ch": {
+    "url": "https://www.mufag.ch",
+    "email": "ulrich.feusi@mufag.ch",
+    "name": "Ulrich Feusi"
+  },
+  "emperio.ch": {
+    "url": "https://www.emperio.ch",
+    "email": "tim.fida@emperio.ch",
+    "name": "Fida"
+  },
+  "fischergartenbau.ch": {
+    "url": "https://www.fischergartenbau.ch",
+    "email": "mail@fischergartenbau.ch",
+    "name": "Fischer"
+  },
+  "fleischmann.ch": {
+    "url": "https://www.fleischmann.ch",
+    "email": "m.fleischman@fleischmann.ch",
+    "name": "Matthias Fleischmann"
+  },
+  "redrealestate.ch": {
+    "url": "https://www.redrealestate.ch",
+    "email": "af@redrealestate.ch",
+    "name": "Flükiger"
+  },
+  "elron.ch": {
+    "url": "https://www.elron.ch",
+    "email": "nick.fluri@elron.ch",
+    "name": "Nick Fluri"
+  },
+  "ritterimmobilien.ch": {
+    "url": "https://www.ritterimmobilien.ch",
+    "email": "f.fontana@ritterimmobilien.ch",
+    "name": "Fabio Fontana"
+  },
+  "naturban.ch": {
+    "url": "https://www.naturban.ch",
+    "email": "info@naturban.ch",
+    "name": "Frank"
+  },
+  "jfh.ch": {
+    "url": "https://www.jfh.ch",
+    "email": "christopher.frei@jfh.ch",
+    "name": "Christopher Frei"
+  },
+  "immobilienfrey.ch": {
+    "url": "https://www.immobilienfrey.ch",
+    "email": "g.frey@immobilienfrey.ch",
+    "name": "Gabriela Frey"
+  },
+  "immobilien-vermittlerin.ch": {
+    "url": "https://www.immobilien-vermittlerin.ch",
+    "email": "info@immobilien-vermittlerin.ch",
+    "name": "Sylvana Frigoli"
+  },
+  "fross.ch": {
+    "url": "https://www.fross.ch",
+    "email": "welcome@fross.ch",
+    "name": "Christian Fross"
+  },
+  "liegenschaftsverkauf.ch": {
+    "url": "https://www.liegenschaftsverkauf.ch",
+    "email": "info@liegenschaftsverkauf.ch",
+    "name": "Matthias Frutig"
+  },
+  "fuchsgartenpflege.ch": {
+    "url": "https://www.fuchsgartenpflege.ch",
+    "email": "info@fuchsgartenpflege.ch",
+    "name": "Fuchs"
+  },
+  "fuchsimmobilien.ch": {
+    "url": "https://www.fuchsimmobilien.ch",
+    "email": "mfuchs@fuchsimmobilien.ch",
+    "name": "Mario Fuchs"
+  },
+  "lacher-treuhand.ch": {
+    "url": "https://www.lacher-treuhand.ch",
+    "email": "info@lacher-treuhand.ch",
+    "name": "Tanja Fuchs-Späni"
+  },
+  "fueglistaler.ch": {
+    "url": "https://www.fueglistaler.ch",
+    "email": "ken@fueglistaler.ch",
+    "name": "Kenneth Mischa Alexander Füglistaler"
+  },
+  "fuerer-immobilien.ch": {
+    "url": "https://www.fuerer-immobilien.ch",
+    "email": "info@fuerer-immobilien.ch",
+    "name": "Ramara Fürer"
+  },
+  "mueller-schuhmacher.ch": {
+    "url": "https://www.mueller-schuhmacher.ch",
+    "email": "furrer@mueller-schuhmacher.ch",
+    "name": "Furrer"
+  },
+  "immoff-market.ch": {
+    "url": "https://www.immoff-market.ch",
+    "email": "g.gabriel@immoff-market.ch",
+    "name": "Georg Gabriel"
+  },
+  "gaetano-immobilien.ch": {
+    "url": "https://www.gaetano-immobilien.ch",
+    "email": "info@gaetano-immobilien.ch",
+    "name": "Alessandro Gaetano"
+  },
+  "immotrustag.ch": {
+    "url": "https://www.immotrustag.ch",
+    "email": "m.gaggia@immotrustag.ch",
+    "name": "Michele Gaggia"
+  },
+  "gaertnergaehler.ch": {
+    "url": "https://www.gaertnergaehler.ch",
+    "email": "info@gaertnergaehler.ch",
+    "name": "Gähler"
+  },
+  "star-trust.ch": {
+    "url": "https://www.star-trust.ch",
+    "email": "gajic@star-trust.ch",
+    "name": "Stanislav Gajic"
+  },
+  "gartenbau-galliker.ch": {
+    "url": "https://www.gartenbau-galliker.ch",
+    "email": "info@gartenbau-galliker.ch",
+    "name": "Galliker"
+  },
+  "baumpflege-gallusser.ch": {
+    "url": "https://www.baumpflege-gallusser.ch",
+    "email": "info@baumpflege-gallusser.ch",
+    "name": "Gallusser"
+  },
+  "gamma-gartenraum.ch": {
+    "url": "https://www.gamma-gartenraum.ch",
+    "email": "info@gamma-gartenraum.ch",
+    "name": "Gamma"
+  },
+  "praxis-gantner.ch": {
+    "url": "https://www.praxis-gantner.ch",
+    "email": "info@praxis-gantner.ch",
+    "name": "Christa Gantner"
+  },
+  "intercity.ch": {
+    "url": "https://www.intercity.ch",
+    "email": "carlos.garcia@intercity.ch",
+    "name": "Carlos Garcia"
+  },
+  "gashigartenunterhalt.ch": {
+    "url": "https://www.gashigartenunterhalt.ch",
+    "email": "info@gashigartenunterhalt.ch",
+    "name": "Gashi"
+  },
+  "wysslaw.ch": {
+    "url": "https://www.wysslaw.ch",
+    "email": "sandro.gauch@wysslaw.ch",
+    "name": "Sandro Gauch"
+  },
+  "ambassador-immo.ch": {
+    "url": "https://www.ambassador-immo.ch",
+    "email": "gautschi@ambassador-immo.ch",
+    "name": "Julia Gautschi"
+  },
+  "scheiwiller.ag": {
+    "url": "https://www.scheiwiller.ag",
+    "email": "slavisa.gavric@scheiwiller.ag",
+    "name": "Slavisa Gavric"
+  },
+  "gm-immobilien.ch": {
+    "url": "https://www.gm-immobilien.ch",
+    "email": "info@gm-immobilien.ch",
+    "name": "Gebrüder Müller Team"
+  },
+  "soudronic.com": {
+    "url": "https://www.soudronic.com",
+    "email": "info@soudronic.com",
+    "name": "Geide"
+  },
+  "geisergartenbau.ch": {
+    "url": "https://www.geisergartenbau.ch",
+    "email": "info@geisergartenbau.ch",
+    "name": "Geiser"
+  },
+  "ge-re.ch": {
+    "url": "https://www.ge-re.ch",
+    "email": "mg@ge-re.ch",
+    "name": "Mazlum Gencer"
+  },
+  "nora-immobilien.ch": {
+    "url": "https://www.nora-immobilien.ch",
+    "email": "info@nora-immobilien.ch",
+    "name": "Karin Gentinetta"
+  },
+  "etzel.ag": {
+    "url": "https://www.etzel.ag",
+    "email": "gg@etzel.ag",
+    "name": "Gary Gerber"
+  },
+  "it3.ch": {
+    "url": "https://www.it3.ch",
+    "email": "carla.gerber@it3.ch",
+    "name": "Carla Gerber"
+  },
+  "giardinonobile.ch": {
+    "url": "https://www.giardinonobile.ch",
+    "email": "info@giardinonobile.ch",
+    "name": "Giardino Nobile Team"
+  },
+  "immoleader.ch": {
+    "url": "https://www.immoleader.ch",
+    "email": "jg@immoleader.ch",
+    "name": "Jürg Giedemann"
+  },
+  "pangarten.ch": {
+    "url": "https://www.pangarten.ch",
+    "email": "ueli.giezendanner@pangarten.ch",
+    "name": "Giezendanner"
+  },
+  "cristallohomes.ch": {
+    "url": "https://www.cristallohomes.ch",
+    "email": "info@cristallohomes.ch",
+    "name": "Patrick Gilgen"
+  },
+  "trigis.ch": {
+    "url": "https://www.trigis.ch",
+    "email": "info@trigis.ch",
+    "name": "Daniel Gisin"
+  },
+  "vfischer-investas.ch": {
+    "url": "https://www.vfischer-investas.ch",
+    "email": "silvio.gloor@vfischer-investas.ch",
+    "name": "Silvio Gloor"
+  },
+  "gnehm-notz.ch": {
+    "url": "https://www.gnehm-notz.ch",
+    "email": "info@gnehm-notz.ch",
+    "name": "Gnehm"
+  },
+  "leu-partner.com": {
+    "url": "https://www.leu-partner.com",
+    "email": "ig@leu-partner.com",
+    "name": "Göckenjan"
+  },
+  "gartenleute.ch": {
+    "url": "https://www.gartenleute.ch",
+    "email": "mail@gartenleute.ch",
+    "name": "Goeggel"
+  },
+  "aureusimmobilien.ch": {
+    "url": "https://www.aureusimmobilien.ch",
+    "email": "kadir.goekce@aureusimmobilien.ch",
+    "name": "Kadir Goekce"
+  },
+  "vimova.ch": {
+    "url": "https://www.vimova.ch",
+    "email": "fabian.gonseth@vimova.ch",
+    "name": "Fabian Gonseth"
+  },
+  "wiserliving.ch": {
+    "url": "https://www.wiserliving.ch",
+    "email": "hans.goetschi@wiserliving.ch",
+    "name": "Hans Götschi"
+  },
+  "allenspach-felix.ch": {
+    "url": "https://www.allenspach-felix.ch",
+    "email": "info@allenspach-felix.ch",
+    "name": "Simona Götz"
+  },
+  "gartenbau-grab.ch": {
+    "url": "https://www.gartenbau-grab.ch",
+    "email": "mark.grab@gartenbau-grab.ch",
+    "name": "Grab"
+  },
+  "sihlpark.ch": {
+    "url": "https://www.sihlpark.ch",
+    "email": "info@sihlpark.ch",
+    "name": "Walter Grab"
+  },
+  "graberimmobilien.ch": {
+    "url": "https://www.graberimmobilien.ch",
+    "email": "larissa.graber@graberimmobilien.ch",
+    "name": "Larissa Graber"
+  },
+  "immobag-winterthur.ch": {
+    "url": "https://www.immobag-winterthur.ch",
+    "email": "graf.partner@immobag-winterthur.ch",
+    "name": "Graf"
+  },
+  "immograf.ch": {
+    "url": "https://www.immograf.ch",
+    "email": "info@immograf.ch",
+    "name": "Graf"
+  },
+  "graefensteiner.ch": {
+    "url": "https://www.graefensteiner.ch",
+    "email": "info@graefensteiner.ch",
+    "name": "Karen Gräfensteiner-Deyaert"
+  },
+  "grebimmo.ch": {
+    "url": "https://www.grebimmo.ch",
+    "email": "stefan.greber@grebimmo.ch",
+    "name": "Stefan Greber"
+  },
+  "griederimmobilien.ch": {
+    "url": "https://www.griederimmobilien.ch",
+    "email": "grieder@griederimmobilien.ch",
+    "name": "Manuel Grieder"
+  },
+  "rugg.ch": {
+    "url": "https://www.rugg.ch",
+    "email": "info@rugg.ch",
+    "name": "Grimm"
+  },
+  "grunder-law.ch": {
+    "url": "https://www.grunder-law.ch",
+    "email": "daniel.grunder@grunder-law.ch",
+    "name": "Daniel Grunder"
+  },
+  "gptchur.ch": {
+    "url": "https://www.gptchur.ch",
+    "email": "info@gptchur.ch",
+    "name": "Marco Grünenfelder"
+  },
+  "gruenheit.ch": {
+    "url": "https://www.gruenheit.ch",
+    "email": "info@gruenheit.ch",
+    "name": "Grünheit Team"
+  },
+  "freitagimmo.ch": {
+    "url": "https://www.freitagimmo.ch",
+    "email": "info@freitagimmo.ch",
+    "name": "Grünig"
+  },
+  "immobilitas.ch": {
+    "url": "https://www.immobilitas.ch",
+    "email": "thomas.grueninger@immobilitas.ch",
+    "name": "Thomas Grüninger"
+  },
+  "vpbank.com": {
+    "url": "https://www.vpbank.com",
+    "email": "pascal.gruetter@vpbank.com",
+    "name": "Pascal Grutter"
+  },
+  "profil-immobilien.ch": {
+    "url": "https://www.profil-immobilien.ch",
+    "email": "m.gubler@profil-immobilien.ch",
+    "name": "Marianne Gubler"
+  },
+  "guderian-immobilien.ch": {
+    "url": "https://www.guderian-immobilien.ch",
+    "email": "sg@guderian-immobilien.ch",
+    "name": "Stefan Guderian"
+  },
+  "off-market-immobilien.ch": {
+    "url": "https://www.off-market-immobilien.ch",
+    "email": "info@off-market-immobilien.ch",
+    "name": "Jorge Guerreiro Sebastiao"
+  },
+  "guegler-immobilien.ch": {
+    "url": "https://www.guegler-immobilien.ch",
+    "email": "jean.guegler@guegler-immobilien.ch",
+    "name": "Jean Gügler"
+  },
+  "guentensperger-immo.ch": {
+    "url": "https://www.guentensperger-immo.ch",
+    "email": "info@guentensperger-immo.ch",
+    "name": "Güntensperger"
+  },
+  "cgut.ch": {
+    "url": "https://www.cgut.ch",
+    "email": "cgut@cgut.ch",
+    "name": "Gut"
+  },
+  "gimmo.swiss": {
+    "url": "https://www.gimmo.swiss",
+    "email": "dg@gimmo.swiss",
+    "name": "Daniel Gützel"
+  },
+  "mantz.ch": {
+    "url": "https://www.mantz.ch",
+    "email": "luzia.gwerder@mantz.ch",
+    "name": "Luzia Gwerder"
+  },
+  "hengartner-jans.ch": {
+    "url": "https://www.hengartner-jans.ch",
+    "email": "christian.gwerder@hengartner-jans.ch",
+    "name": "Gwerder"
+  },
+  "gartenhaag.ch": {
+    "url": "https://www.gartenhaag.ch",
+    "email": "info@gartenhaag.ch",
+    "name": "Haag"
+  },
+  "hadorngarten.ch": {
+    "url": "https://www.hadorngarten.ch",
+    "email": "kontakt@hadorngarten.ch",
+    "name": "Hadorn"
+  },
+  "zg.regimo.ch": {
+    "url": "https://www.zg.regimo.ch",
+    "email": "matthias.haefelin@zg.regimo.ch",
+    "name": "Matthias Häfelin"
+  },
+  "pure.swiss": {
+    "url": "https://www.pure.swiss",
+    "email": "armin.hafner@pure.swiss",
+    "name": "Armin Hafner"
+  },
+  "kibag.ch": {
+    "url": "https://www.kibag.ch",
+    "email": "info@kibag.ch",
+    "name": "Sandro Hagen"
+  },
+  "uta.ch": {
+    "url": "https://www.uta.ch",
+    "email": "thomas.hager@uta.ch",
+    "name": "Thomas Hager"
+  },
+  "fusspflege-hangartner.ch": {
+    "url": "https://www.fusspflege-hangartner.ch",
+    "email": "info@fusspflege-hangartner.ch",
+    "name": "Siegrun Hangartner"
+  },
+  "newkey.ch": {
+    "url": "https://www.newkey.ch",
+    "email": "philip.haenni@newkey.ch",
+    "name": "Philip Hänni"
+  },
+  "herz-immobilien.ch": {
+    "url": "https://www.herz-immobilien.ch",
+    "email": "mh@herz-immobilien.ch",
+    "name": "Milena Hänni"
+  },
+  "hardegger-treuhand.ch": {
+    "url": "https://www.hardegger-treuhand.ch",
+    "email": "info@hardegger-treuhand.ch",
+    "name": "Pius Hardegger"
+  },
+  "hit-ag.ch": {
+    "url": "https://www.hit-ag.ch",
+    "email": "stefanharsch@hit-ag.ch",
+    "name": "Markus Harsch"
+  },
+  "smzh.ch": {
+    "url": "https://www.smzh.ch",
+    "email": "zurich@smzh.ch",
+    "name": "Gzim Hasani"
+  },
+  "hauptimmobilien.ch": {
+    "url": "https://www.hauptimmobilien.ch",
+    "email": "christian.haupt@hauptimmobilien.ch",
+    "name": "Christian Haupt"
+  },
+  "n47immo.ch": {
+    "url": "https://www.n47immo.ch",
+    "email": "christianhauser@n47immo.ch",
+    "name": "Christian Hauser"
+  },
+  "hausherr-immobilien.ch": {
+    "url": "https://www.hausherr-immobilien.ch",
+    "email": "peter.hausherr@hausherr-immobilien.ch",
+    "name": "Peter Hausherr"
+  },
+  "axessa.ch": {
+    "url": "https://www.axessa.ch",
+    "email": "hubert.haeusler@axessa.ch",
+    "name": "Hubert Häusler"
+  },
+  "sihl-gaerten.ch": {
+    "url": "https://www.sihl-gaerten.ch",
+    "email": "info@sihl-gaerten.ch",
+    "name": "Haxhaj"
+  },
+  "hit-treuhand.ch": {
+    "url": "https://www.hit-treuhand.ch",
+    "email": "p.hegelbach@hit-treuhand.ch",
+    "name": "Peter Hegelbach"
+  },
+  "hegetschweiler-gaerten.ch": {
+    "url": "https://www.hegetschweiler-gaerten.ch",
+    "email": "info@hegetschweiler-gaerten.ch",
+    "name": "Hegetschweiler"
+  },
+  "heggligartenbau.ch": {
+    "url": "https://www.heggligartenbau.ch",
+    "email": "rainer@heggligartenbau.ch",
+    "name": "Heggli"
+  },
+  "wimmog.ch": {
+    "url": "https://www.wimmog.ch",
+    "email": "nicola.heierli@wimmog.ch",
+    "name": "Nicola Heierli"
+  },
+  "ahig.ch": {
+    "url": "https://www.ahig.ch",
+    "email": "office@ahig.ch",
+    "name": "Axel Heim"
+  },
+  "prohaus.ch": {
+    "url": "https://www.prohaus.ch",
+    "email": "philip.heimann@prohaus.ch",
+    "name": "Philip Heimann"
+  },
+  "we-net.ch": {
+    "url": "https://www.we-net.ch",
+    "email": "info@we-net.ch",
+    "name": "Sabine Heitz"
+  },
+  "heinzer-immobilien.ch": {
+    "url": "https://www.heinzer-immobilien.ch",
+    "email": "info@heinzer-immobilien.ch",
+    "name": "Christian Heizner"
+  },
+  "stanhope.ch": {
+    "url": "https://www.stanhope.ch",
+    "email": "piaheje@stanhope.ch",
+    "name": "Pia Heje"
+  },
+  "marcohelbling.ch": {
+    "url": "https://www.marcohelbling.ch",
+    "email": "marco@marcohelbling.ch",
+    "name": "Helbling"
+  },
+  "helfensteinag.ch": {
+    "url": "https://www.helfensteinag.ch",
+    "email": "info@helfensteinag.ch",
+    "name": "Helfenstein Team"
+  },
+  "hellerpartner.ch": {
+    "url": "https://www.hellerpartner.ch",
+    "email": "stephan.heller@hellerpartner.ch",
+    "name": "Stephan Heller"
+  },
+  "feritel.swiss": {
+    "url": "https://www.feritel.swiss",
+    "email": "immo@feritel.swiss",
+    "name": "Hemmi Team"
+  },
+  "hengerimmobilien.ch": {
+    "url": "https://www.hengerimmobilien.ch",
+    "email": "info@hengerimmobilien.ch",
+    "name": "Valerie Henger"
+  },
+  "lelia-immobilien.ch": {
+    "url": "https://www.lelia-immobilien.ch",
+    "email": "info@lelia-immobilien.ch",
+    "name": "Kai Henke"
+  },
+  "hmc.ag": {
+    "url": "https://www.hmc.ag",
+    "email": "info@hmc.ag",
+    "name": "Henzen"
+  },
+  "kbucher.ch": {
+    "url": "https://www.kbucher.ch",
+    "email": "christoph.herber@kbucher.ch",
+    "name": "Christoph Herber"
+  },
+  "immobaukonzept.ch": {
+    "url": "https://www.immobaukonzept.ch",
+    "email": "info@immobaukonzept.ch",
+    "name": "Ramon Herren"
+  },
+  "herrmann-blumen.ch": {
+    "url": "https://www.herrmann-blumen.ch",
+    "email": "info@herrmann-blumen.ch",
+    "name": "Herrmann"
+  },
+  "mattlihew.ch": {
+    "url": "https://www.mattlihew.ch",
+    "email": "christian.hew@mattlihew.ch",
+    "name": "Christian Hew"
+  },
+  "fruehimmo.ch": {
+    "url": "https://www.fruehimmo.ch",
+    "email": "claudia.hoefliger@fruehimmo.ch",
+    "name": "Claudia Hoefliger"
+  },
+  "wintimmo.ch": {
+    "url": "https://www.wintimmo.ch",
+    "email": "m.hofer@wintimmo.ch",
+    "name": "Michael Hofer"
+  },
+  "gmx.de": {
+    "url": "https://www.gmx.de",
+    "email": "daniel.holtz@gmx.de",
+    "name": "Daniel Holtz"
+  },
+  "srxag.ch": {
+    "url": "https://www.srxag.ch",
+    "email": "r.holzner@srxag.ch",
+    "name": "Holzner"
+  },
+  "sh-immo.gmbh": {
+    "url": "https://www.sh-immo.gmbh",
+    "email": "info@sh-immo.gmbh",
+    "name": "Susann Homberger"
+  },
+  "zweifel-ag.ch": {
+    "url": "https://www.zweifel-ag.ch",
+    "email": "info@zweifel-ag.ch",
+    "name": "Hornung"
+  },
+  "huber-la.ch": {
+    "url": "https://www.huber-la.ch",
+    "email": "info@huber-la.ch",
+    "name": "Huber"
+  },
+  "huberhausherr.ch": {
+    "url": "https://www.huberhausherr.ch",
+    "email": "law@huberhausherr.ch",
+    "name": "Stephan Huber"
+  },
+  "primeproperty.ch": {
+    "url": "https://www.primeproperty.ch",
+    "email": "hug@primeproperty.ch",
+    "name": "Ramon Hug"
+  },
+  "gartenbauhuerlimann.ch": {
+    "url": "https://www.gartenbauhuerlimann.ch",
+    "email": "uh@gartenbauhuerlimann.ch",
+    "name": "Hürlimann"
+  },
+  "marfurt.ch": {
+    "url": "https://www.marfurt.ch",
+    "email": "b.hurni@marfurt.ch",
+    "name": "Bernhard Hurni"
+  },
+  "grueneplanung.ch": {
+    "url": "https://www.grueneplanung.ch",
+    "email": "meintraum@grueneplanung.ch",
+    "name": "Imhof"
+  },
+  "immocall.ch": {
+    "url": "https://www.immocall.ch",
+    "email": "info@immocall.ch",
+    "name": "Immo Call Team"
+  },
+  "immo-meyer.ch": {
+    "url": "https://www.immo-meyer.ch",
+    "email": "info@immo-meyer.ch",
+    "name": "Immo Meyer Team"
+  },
+  "alimo-immobilien.ch": {
+    "url": "https://www.alimo-immobilien.ch",
+    "email": "alex.imobersteg@alimo-immobilien.ch",
+    "name": "Alex Imobersteg"
+  },
+  "ina-immobilien.ch": {
+    "url": "https://www.ina-immobilien.ch",
+    "email": "info@ina-immobilien.ch",
+    "name": "Ina"
+  },
+  "inderbitzin-immobilien.ch": {
+    "url": "https://www.inderbitzin-immobilien.ch",
+    "email": "info@inderbitzin-immobilien.ch",
+    "name": "Alex Inderbitzin"
+  },
+  "sts-immobilien.ch": {
+    "url": "https://www.sts-immobilien.ch",
+    "email": "inderkum@sts-immobilien.ch",
+    "name": "David Inderkum"
+  },
+  "inter.immobilien": {
+    "url": "https://www.inter.immobilien",
+    "email": "enricointernicola@inter.immobilien",
+    "name": "Internicola"
+  },
+  "viventia.ch": {
+    "url": "https://www.viventia.ch",
+    "email": "t.ioanna@viventia.ch",
+    "name": "Ioanna"
+  },
+  "legeartiszug.ch": {
+    "url": "https://www.legeartiszug.ch",
+    "email": "iten@legeartiszug.ch",
+    "name": "Iten"
+  },
+  "ivzimmo.ch": {
+    "url": "https://www.ivzimmo.ch",
+    "email": "ivz@ivzimmo.ch",
+    "name": "IVZ Team"
+  },
+  "gestina.ch": {
+    "url": "https://www.gestina.ch",
+    "email": "edgar.jenny@gestina.ch",
+    "name": "Edgar Jenny"
+  },
+  "axa-im.com": {
+    "url": "https://www.axa-im.com",
+    "email": "immobilien@axa-im.com",
+    "name": "Timon Jökel"
+  },
+  "jostservice.ch": {
+    "url": "https://www.jostservice.ch",
+    "email": "info@jostservice.ch",
+    "name": "Jost"
+  },
+  "orysinvest.ch": {
+    "url": "https://www.orysinvest.ch",
+    "email": "jovic@orysinvest.ch",
+    "name": "Nikola Jovic"
+  },
+  "juchli.ch": {
+    "url": "https://www.juchli.ch",
+    "email": "info@juchli.ch",
+    "name": "Juchli"
+  },
+  "propertyowner.ch": {
+    "url": "https://www.propertyowner.ch",
+    "email": "dominique.julen@propertyowner.ch",
+    "name": "Dominique Julen"
+  },
+  "fhnw.ch": {
+    "url": "https://www.fhnw.ch",
+    "email": "luzia.jurt@fhnw.ch",
+    "name": "Jurt"
+  },
+  "revor.swiss": {
+    "url": "https://www.revor.swiss",
+    "email": "r.kahr@revor.swiss",
+    "name": "Kahr"
+  },
+  "managed-trust.com": {
+    "url": "https://www.managed-trust.com",
+    "email": "simon.kaiser@managed-trust.com",
+    "name": "Simon Kaiser"
+  },
+  "immokaletsch.ch": {
+    "url": "https://www.immokaletsch.ch",
+    "email": "noah@immokaletsch.ch",
+    "name": "Noah Kaletsch"
+  },
+  "gartensymphonie.ch": {
+    "url": "https://www.gartensymphonie.ch",
+    "email": "info@gartensymphonie.ch",
+    "name": "Käliin"
+  },
+  "sanjo.ch": {
+    "url": "https://www.sanjo.ch",
+    "email": "m.kaelin@sanjo.ch",
+    "name": "Myriam Kälin"
+  },
+  "administra.immo": {
+    "url": "https://www.administra.immo",
+    "email": "roger.kaelin@administra.immo",
+    "name": "Roger Kälin"
+  },
+  "gartenbau-kaelin.ch": {
+    "url": "https://www.gartenbau-kaelin.ch",
+    "email": "info@gartenbau-kaelin.ch",
+    "name": "Källin"
+  },
+  "k3-rem.ch": {
+    "url": "https://www.k3-rem.ch",
+    "email": "vermietung@k3-rem.ch",
+    "name": "Käppeli"
+  },
+  "cosmosvalues.com": {
+    "url": "https://www.cosmosvalues.com",
+    "email": "info@cosmosvalues.com",
+    "name": "Kaps"
+  },
+  "tecton.ch": {
+    "url": "https://www.tecton.ch",
+    "email": "andreas.karnowski@tecton.ch",
+    "name": "Andreas Karnowski"
+  },
+  "immoresult.ch": {
+    "url": "https://www.immoresult.ch",
+    "email": "info@immoresult.ch",
+    "name": "Thomas Kasahara"
+  },
+  "swissresidencegroup.ch": {
+    "url": "https://www.swissresidencegroup.ch",
+    "email": "p.kaeser@swissresidencegroup.ch",
+    "name": "Pascal Käser"
+  },
+  "propp.ch": {
+    "url": "https://www.propp.ch",
+    "email": "m.kathrein@propp.ch",
+    "name": "Markus Kathrein"
+  },
+  "kehl-immo.ch": {
+    "url": "https://www.kehl-immo.ch",
+    "email": "w.kehl@kehl-immo.ch",
+    "name": "Walter Kehl"
+  },
+  "keifer-immobilien.ch": {
+    "url": "https://www.keifer-immobilien.ch",
+    "email": "gian@keifer-immobilien.ch",
+    "name": "Gian Keifer"
+  },
+  "immoks.ch": {
+    "url": "https://www.immoks.ch",
+    "email": "info@immoks.ch",
+    "name": "Daniel Keller"
+  },
+  "jaiserkeller.ch": {
+    "url": "https://www.jaiserkeller.ch",
+    "email": "info@jaiserkeller.ch",
+    "name": "Keller"
+  },
+  "tigu.ch": {
+    "url": "https://www.tigu.ch",
+    "email": "christoph.keller@tigu.ch",
+    "name": "Christoph Keller"
+  },
+  "belmoag.ch": {
+    "url": "https://www.belmoag.ch",
+    "email": "keller@belmoag.ch",
+    "name": "Beat Keller"
+  },
+  "immobiliendienstleister.ch": {
+    "url": "https://www.immobiliendienstleister.ch",
+    "email": "info@immobiliendienstleister.ch",
+    "name": "Lucas Keller"
+  },
+  "keller-immovermarktung.ch": {
+    "url": "https://www.keller-immovermarktung.ch",
+    "email": "info@keller-immovermarktung.ch",
+    "name": "Keller"
+  },
+  "primova.ch": {
+    "url": "https://www.primova.ch",
+    "email": "mke@primova.ch",
+    "name": "Keller"
+  },
+  "immoservice.ch": {
+    "url": "https://www.immoservice.ch",
+    "email": "fk@immoservice.ch",
+    "name": "Frank Kessler"
+  },
+  "deltaimmobilien.ch": {
+    "url": "https://www.deltaimmobilien.ch",
+    "email": "info@deltaimmobilien.ch",
+    "name": "Julia Keusen"
+  },
+  "residence-immobilien.ch": {
+    "url": "https://www.residence-immobilien.ch",
+    "email": "info@residence-immobilien.ch",
+    "name": "Tatjana Kiefer Kiefer"
+  },
+  "malloth.swiss": {
+    "url": "https://www.malloth.swiss",
+    "email": "markus.kirchgeorg@malloth.swiss",
+    "name": "Markus Kirchgeorg"
+  },
+  "psychologie.ch": {
+    "url": "https://www.psychologie.ch",
+    "email": "anna.knoerr@psychologie.ch",
+    "name": "Anna Knörr"
+  },
+  "fotogarten.ch": {
+    "url": "https://www.fotogarten.ch",
+    "email": "katharina.koechli@fotogarten.ch",
+    "name": "Köchli"
+  },
+  "vibak.com": {
+    "url": "https://www.vibak.com",
+    "email": "info@vibak.com",
+    "name": "Hans Peter Kohler"
+  },
+  "pfarrverein.ch": {
+    "url": "https://www.pfarrverein.ch",
+    "email": "thomas.koelliker@pfarrverein.ch",
+    "name": "Thomas Kölliker"
+  },
+  "abona.ch": {
+    "url": "https://www.abona.ch",
+    "email": "adrian.koelliker@abona.ch",
+    "name": "Adrian Kölliker"
+  },
+  "regh.ch": {
+    "url": "https://www.regh.ch",
+    "email": "info@regh.ch",
+    "name": "Samuel Kolp"
+  },
+  "boutiquehomes.ch": {
+    "url": "https://www.boutiquehomes.ch",
+    "email": "steffi@boutiquehomes.ch",
+    "name": "Stephanie Komminoth"
+  },
+  "8808.ch": {
+    "url": "https://www.8808.ch",
+    "email": "korporation.pfaeffikon@8808.ch",
+    "name": "Kooperation Pfäffikon Team"
+  },
+  "reiner-k-immo.ch": {
+    "url": "https://www.reiner-k-immo.ch",
+    "email": "rk@reiner-k-immo.ch",
+    "name": "Reiner Kötter"
+  },
+  "tik-treuhand.ch": {
+    "url": "https://www.tik-treuhand.ch",
+    "email": "joel.koezle@tik-treuhand.ch",
+    "name": "Joel Közle"
+  },
+  "2kitz.ch": {
+    "url": "https://www.2kitz.ch",
+    "email": "krasniqi@2kitz.ch",
+    "name": "Bashkim Krasniqi"
+  },
+  "krasniqigartenbau.ch": {
+    "url": "https://www.krasniqigartenbau.ch",
+    "email": "rk@krasniqigartenbau.ch",
+    "name": "Krasniqi"
+  },
+  "bentom.ch": {
+    "url": "https://www.bentom.ch",
+    "email": "skrieg@bentom.ch",
+    "name": "Sonja Krieg"
+  },
+  "immoway.ch": {
+    "url": "https://www.immoway.ch",
+    "email": "rene.kryenbuehl@immoway.ch",
+    "name": "Rene Kryenbühl"
+  },
+  "fontana-partner.ch": {
+    "url": "https://www.fontana-partner.ch",
+    "email": "a.kuebler@fontana-partner.ch",
+    "name": "Andrrea Kübler"
+  },
+  "immoselectiondavos.ch": {
+    "url": "https://www.immoselectiondavos.ch",
+    "email": "m.kuechl@immoselectiondavos.ch",
+    "name": "Michaela Küchl-Rossel"
+  },
+  "kunzlawfirm.ch": {
+    "url": "https://www.kunzlawfirm.ch",
+    "email": "info@kunzlawfirm.ch",
+    "name": "Kunz"
+  },
+  "immo-huebeli.ch": {
+    "url": "https://www.immo-huebeli.ch",
+    "email": "huebeli@immo-huebeli.ch",
+    "name": "Andrea Künzi"
+  },
+  "kuriger-treuhand.ch": {
+    "url": "https://www.kuriger-treuhand.ch",
+    "email": "andreas.kuriger@kuriger-treuhand.ch",
+    "name": "Andreas Kuriger"
+  },
+  "diegartendesigner.ch": {
+    "url": "https://www.diegartendesigner.ch",
+    "email": "m.kuriger@diegartendesigner.ch",
+    "name": "Kuriger"
+  },
+  "k-immobilien.ch": {
+    "url": "https://www.k-immobilien.ch",
+    "email": "michael.kuettel@k-immobilien.ch",
+    "name": "Michael Küttel"
+  },
+  "gartenbau-landtwing.ch": {
+    "url": "https://www.gartenbau-landtwing.ch",
+    "email": "j.landtwing@gartenbau-landtwing.ch",
+    "name": "Landtwing"
+  },
+  "landtwing.com": {
+    "url": "https://www.landtwing.com",
+    "email": "contact@landtwing.com",
+    "name": "Landtwing"
+  },
+  "urbida-immo.ch": {
+    "url": "https://www.urbida-immo.ch",
+    "email": "p.langhi@urbida-immo.ch",
+    "name": "Pascal Langhi"
+  },
+  "laesserundpartner.ch": {
+    "url": "https://www.laesserundpartner.ch",
+    "email": "andre.laesser@laesserundpartner.ch",
+    "name": "Andre Lässer"
+  },
+  "best-property.ch": {
+    "url": "https://www.best-property.ch",
+    "email": "carmen.lauener@best-property.ch",
+    "name": "Carmen Lauener"
+  },
+  "lbi.swiss": {
+    "url": "https://www.lbi.swiss",
+    "email": "info@lbi.swiss",
+    "name": "LBI Team"
+  },
+  "ledergarten.ch": {
+    "url": "https://www.ledergarten.ch",
+    "email": "leder@ledergarten.ch",
+    "name": "Leder"
+  },
+  "immobilienkosmos.ch": {
+    "url": "https://www.immobilienkosmos.ch",
+    "email": "sl@immobilienkosmos.ch",
+    "name": "Salvatore Leggio"
+  },
+  "joeri-immo.ch": {
+    "url": "https://www.joeri-immo.ch",
+    "email": "m.lehmann@joeri-immo.ch",
+    "name": "Martin Lehmann"
+  },
+  "marcelogarten.ch": {
+    "url": "https://www.marcelogarten.ch",
+    "email": "info@marcelogarten.ch",
+    "name": "Lehmann"
+  },
+  "omit.ch": {
+    "url": "https://www.omit.ch",
+    "email": "judith.lehmann@omit.ch",
+    "name": "Judith Lehmann"
+  },
+  "lb-liegenschaftsberatung.ch": {
+    "url": "https://www.lb-liegenschaftsberatung.ch",
+    "email": "rleibundgut@lb-liegenschaftsberatung.ch",
+    "name": "Remo Leibundgut"
+  },
+  "vzug.com": {
+    "url": "https://www.vzug.com",
+    "email": "philipp.leibundgut@vzug.com",
+    "name": "Philipp Leibundgut"
+  },
+  "immoleimer.ch": {
+    "url": "https://www.immoleimer.ch",
+    "email": "u.leimer@immoleimer.ch",
+    "name": "Urs Leimer"
+  },
+  "hugosteiner.ch": {
+    "url": "https://www.hugosteiner.ch",
+    "email": "stefan.lemberger@hugosteiner.ch",
+    "name": "Stefan Lemberger"
+  },
+  "lemm-immobilien.ch": {
+    "url": "https://www.lemm-immobilien.ch",
+    "email": "info@lemm-immobilien.ch",
+    "name": "Lemm Team"
+  },
+  "lenz-garten.ch": {
+    "url": "https://www.lenz-garten.ch",
+    "email": "p.lenz@lenz-garten.ch",
+    "name": "Lenz"
+  },
+  "arosaexklusiv.ch": {
+    "url": "https://www.arosaexklusiv.ch",
+    "email": "mail@arosaexklusiv.ch",
+    "name": "Valerie Leu"
+  },
+  "zentrum-ti.ch": {
+    "url": "https://www.zentrum-ti.ch",
+    "email": "c.leuenberger@zentrum-ti.ch",
+    "name": "Caroline Leuenberger"
+  },
+  "properti.ch": {
+    "url": "https://www.properti.ch",
+    "email": "sabine.leuthold@properti.ch",
+    "name": "Sabine Leuthold"
+  },
+  "ginesta.ch": {
+    "url": "https://www.ginesta.ch",
+    "email": "leutwiler@ginesta.ch",
+    "name": "Janine Leutwiler"
+  },
+  "hugeli.ch": {
+    "url": "https://www.hugeli.ch",
+    "email": "jlimacher@hugeli.ch",
+    "name": "Jörg Limacher"
+  },
+  "limio.ch": {
+    "url": "https://www.limio.ch",
+    "email": "info@limio.ch",
+    "name": "Limio Team"
+  },
+  "team-lindenberger.ch": {
+    "url": "https://www.team-lindenberger.ch",
+    "email": "tim.lindenberger@team-lindenberger.ch",
+    "name": "Tim Lindenberger"
+  },
+  "smeyers.ch": {
+    "url": "https://www.smeyers.ch",
+    "email": "ramona.lindenmann@smeyers.ch",
+    "name": "Ramona Lindenmann"
+  },
+  "lebenswerk.immo": {
+    "url": "https://www.lebenswerk.immo",
+    "email": "sl@lebenswerk.immo",
+    "name": "Sven Lindhorst"
+  },
+  "aforia.ch": {
+    "url": "https://www.aforia.ch",
+    "email": "brian.lingenhoele@aforia.ch",
+    "name": "Brian Lingenhöle"
+  },
+  "immobilien-verwaltung.ch": {
+    "url": "https://www.immobilien-verwaltung.ch",
+    "email": "simon@immobilien-verwaltung.ch",
+    "name": "Simon Lippuner"
+  },
+  "lisignoli-ferienwohnungen.ch": {
+    "url": "https://www.lisignoli-ferienwohnungen.ch",
+    "email": "info@lisignoli-ferienwohnungen.ch",
+    "name": "Lisignoli Team"
+  },
+  "litzius.ch": {
+    "url": "https://www.litzius.ch",
+    "email": "litzius@litzius.ch",
+    "name": "Alexander Litzius"
+  },
+  "natika.ch": {
+    "url": "https://www.natika.ch",
+    "email": "info@natika.ch",
+    "name": "Loosli"
+  },
+  "ripa-immobilien.ch": {
+    "url": "https://www.ripa-immobilien.ch",
+    "email": "ml@ripa-immobilien.ch",
+    "name": "Manuela Lötscher"
+  },
+  "atb.ch": {
+    "url": "https://www.atb.ch",
+    "email": "tanja.lucchini@atb.ch",
+    "name": "Tanja Lucchini"
+  },
+  "steinlex.ch": {
+    "url": "https://www.steinlex.ch",
+    "email": "luechinger@steinlex.ch",
+    "name": "Lüchinger"
+  },
+  "lueschergartenbau.ch": {
+    "url": "https://www.lueschergartenbau.ch",
+    "email": "info@lueschergartenbau.ch",
+    "name": "Lüscher Team"
+  },
+  "immobilienboutique.ch": {
+    "url": "https://www.immobilienboutique.ch",
+    "email": "info@immobilienboutique.ch",
+    "name": "Sandra Lüthi"
+  },
+  "gaertnerei-luthiger.ch": {
+    "url": "https://www.gaertnerei-luthiger.ch",
+    "email": "info@gaertnerei-luthiger.ch",
+    "name": "Lüthiger Team"
+  },
+  "sermax.ch": {
+    "url": "https://www.sermax.ch",
+    "email": "christine.luetolf@sermax.ch",
+    "name": "Christine Lütolf"
+  },
+  "luxusimmobilien-schweiz.com": {
+    "url": "https://www.luxusimmobilien-schweiz.com",
+    "email": "info@luxusimmobilien-schweiz.com",
+    "name": "Luxus Immobilien Team"
+  },
+  "casaprima.ch": {
+    "url": "https://www.casaprima.ch",
+    "email": "claudia@casaprima.ch",
+    "name": "Claudia Mamone"
+  },
+  "marbetimmobilien.ch": {
+    "url": "https://www.marbetimmobilien.ch",
+    "email": "ch.marbet@marbetimmobilien.ch",
+    "name": "Christian Marbet"
+  },
+  "voma-immobilien.ch": {
+    "url": "https://www.voma-immobilien.ch",
+    "email": "team@voma-immobilien.ch",
+    "name": "Ivana Markovic"
+  },
+  "markutt.ch": {
+    "url": "https://www.markutt.ch",
+    "email": "d.markutt@markutt.ch",
+    "name": "Damian Markutt"
+  },
+  "gr9086.ch": {
+    "url": "https://www.gr9086.ch",
+    "email": "buero@gr9086.ch",
+    "name": "Giannino Maron"
+  },
+  "immomarti.ch": {
+    "url": "https://www.immomarti.ch",
+    "email": "michael.marti@immomarti.ch",
+    "name": "Michael Marti"
+  },
+  "mata.ch": {
+    "url": "https://www.mata.ch",
+    "email": "urs.marti@mata.ch",
+    "name": "Urs Marti"
+  },
+  "stmoritz.immo": {
+    "url": "https://www.stmoritz.immo",
+    "email": "mail@stmoritz.immo",
+    "name": "Lorenzo Martinucci"
+  },
+  "gartenbau-marty.ch": {
+    "url": "https://www.gartenbau-marty.ch",
+    "email": "info@gartenbau-marty.ch",
+    "name": "Marty"
+  },
+  "cbtreuhand.ch": {
+    "url": "https://www.cbtreuhand.ch",
+    "email": "marty@cbtreuhand.ch",
+    "name": "Marty"
+  },
+  "w-i.ch": {
+    "url": "https://www.w-i.ch",
+    "email": "tatjana.mathis@w-i.ch",
+    "name": "Tatjana Mathis"
+  },
+  "matma.ch": {
+    "url": "https://www.matma.ch",
+    "email": "mm@matma.ch",
+    "name": "Mathys"
+  },
+  "matter-immobilien.ch": {
+    "url": "https://www.matter-immobilien.ch",
+    "email": "matter@matter-immobilien.ch",
+    "name": "Daniel Matter"
+  },
+  "matthys-immo.ch": {
+    "url": "https://www.matthys-immo.ch",
+    "email": "matthys@matthys-immo.ch",
+    "name": "Evelyne Matthys"
+  },
+  "mattig.ch": {
+    "url": "https://www.mattig.ch",
+    "email": "franz.mattig@mattig.ch",
+    "name": "Franz Mattig"
+  },
+  "gartenbau-oesch.ch": {
+    "url": "https://www.gartenbau-oesch.ch",
+    "email": "mmeier@gartenbau-oesch.ch",
+    "name": "Meier"
+  },
+  "im-immobilien.ch": {
+    "url": "https://www.im-immobilien.ch",
+    "email": "p.meier@im-immobilien.ch",
+    "name": "Philippe Meier"
+  },
+  "hev-zuerich.ch": {
+    "url": "https://www.hev-zuerich.ch",
+    "email": "cyril.meier@hev-zuerich.ch",
+    "name": "Cyril Meier"
+  },
+  "meierhofer-immo.ch": {
+    "url": "https://www.meierhofer-immo.ch",
+    "email": "info@meierhofer-immo.ch",
+    "name": "Frank Meierhofer"
+  },
+  "korporation-wollerau.ch": {
+    "url": "https://www.korporation-wollerau.ch",
+    "email": "verwaltung@korporation-wollerau.ch",
+    "name": "Rolf Meister"
+  },
+  "glencore.com": {
+    "url": "https://www.glencore.com",
+    "email": "corinne.meland@glencore.com",
+    "name": "Corinne Meland"
+  },
+  "vesden.ch": {
+    "url": "https://www.vesden.ch",
+    "email": "cm@vesden.ch",
+    "name": "Claudio Merlo"
+  },
+  "meroinvest.ch": {
+    "url": "https://www.meroinvest.ch",
+    "email": "info@meroinvest.ch",
+    "name": "Mero Invest Team"
+  },
+  "albimusig.ch": {
+    "url": "https://www.albimusig.ch",
+    "email": "kontakt@albimusig.ch",
+    "name": "Albert Merz"
+  },
+  "immozug.com": {
+    "url": "https://www.immozug.com",
+    "email": "a.meuli@immozug.com",
+    "name": "Alfredo Meuli"
+  },
+  "novac-solutions.com": {
+    "url": "https://www.novac-solutions.com",
+    "email": "marta.meyer@novac-solutions.com",
+    "name": "Marta Meyer"
+  },
+  "truvag.ch": {
+    "url": "https://www.truvag.ch",
+    "email": "vermarktung@truvag.ch",
+    "name": "Andreas Meyer"
+  },
+  "mgimmobiliare.ch": {
+    "url": "https://www.mgimmobiliare.ch",
+    "email": "info@mgimmobiliare.ch",
+    "name": "MG Team"
+  },
+  "miracle-garden.ch": {
+    "url": "https://www.miracle-garden.ch",
+    "email": "info@miracle-garden.ch",
+    "name": "Miracle Team"
+  },
+  "luxurylakezug.com": {
+    "url": "https://www.luxurylakezug.com",
+    "email": "mladen@luxurylakezug.com",
+    "name": "Mladen Mladenovic"
+  },
+  "immosmile.ch": {
+    "url": "https://www.immosmile.ch",
+    "email": "info@immosmile.ch",
+    "name": "Philipp Möbus"
+  },
+  "gricon.ch": {
+    "url": "https://www.gricon.ch",
+    "email": "mm@gricon.ch",
+    "name": "Mathias Monsch"
+  },
+  "gfeller-treuhand.ch": {
+    "url": "https://www.gfeller-treuhand.ch",
+    "email": "h.montero@gfeller-treuhand.ch",
+    "name": "Montero"
+  },
+  "mooswey.ch": {
+    "url": "https://www.mooswey.ch",
+    "email": "info@mooswey.ch",
+    "name": "Moos"
+  },
+  "immorand.ch": {
+    "url": "https://www.immorand.ch",
+    "email": "mail@immorand.ch",
+    "name": "Morand"
+  },
+  "spross.com": {
+    "url": "https://www.spross.com",
+    "email": "ch.morf@spross.com",
+    "name": "Morf"
+  },
+  "mandar-immobilien.ch": {
+    "url": "https://www.mandar-immobilien.ch",
+    "email": "moser@mandar-immobilien.ch",
+    "name": "Darius Moser"
+  },
+  "moser-garten.ch": {
+    "url": "https://www.moser-garten.ch",
+    "email": "info@moser-garten.ch",
+    "name": "Moser"
+  },
+  "localhomes.ch": {
+    "url": "https://www.localhomes.ch",
+    "email": "nadine.moser@localhomes.ch",
+    "name": "Nadine Moser"
+  },
+  "cll-ag.com": {
+    "url": "https://www.cll-ag.com",
+    "email": "lucas.moser@cll-ag.com",
+    "name": "Lucas Moser"
+  },
+  "zuerichseeimmobilien.ch": {
+    "url": "https://www.zuerichseeimmobilien.ch",
+    "email": "nfo@zuerichseeimmobilien.ch",
+    "name": "Willi Mösli"
+  },
+  "weberschweizer.ch": {
+    "url": "https://www.weberschweizer.ch",
+    "email": "michael.moetteli@weberschweizer.ch",
+    "name": "Michael Mötteli"
+  },
+  "mptimmobilien.ch": {
+    "url": "https://www.mptimmobilien.ch",
+    "email": "info@mptimmobilien.ch",
+    "name": "MPT Team"
+  },
+  "muellerfamilyoffice.ch": {
+    "url": "https://www.muellerfamilyoffice.ch",
+    "email": "pm@muellerfamilyoffice.ch",
+    "name": "Patrick Müller"
+  },
+  "stwevag.ch": {
+    "url": "https://www.stwevag.ch",
+    "email": "mueller@stwevag.ch",
+    "name": "Cyrill Müller"
+  },
+  "pmueller-gartenbau.ch": {
+    "url": "https://www.pmueller-gartenbau.ch",
+    "email": "info@pmueller-gartenbau.ch",
+    "name": "Müller"
+  },
+  "muellerundschmidt.ch": {
+    "url": "https://www.muellerundschmidt.ch",
+    "email": "ch.mueller@muellerundschmidt.ch",
+    "name": "Müller"
+  },
+  "am-immotreuhand.ch": {
+    "url": "https://www.am-immotreuhand.ch",
+    "email": "amueller@am-immotreuhand.ch",
+    "name": "Adrian Müller"
+  },
+  "immoleute.ch": {
+    "url": "https://www.immoleute.ch",
+    "email": "o.mueller@immoleute.ch",
+    "name": "Oliver Müller"
+  },
+  "immohgt.ch": {
+    "url": "https://www.immohgt.ch",
+    "email": "brian.mueller@immohgt.ch",
+    "name": "Brian Müller"
+  },
+  "rotkreuzhof.ch": {
+    "url": "https://www.rotkreuzhof.ch",
+    "email": "kurt.mueller@rotkreuzhof.ch",
+    "name": "Kurt Müller"
+  },
+  "immobilum-zug.ch": {
+    "url": "https://www.immobilum-zug.ch",
+    "email": "info@immobilum-zug.ch",
+    "name": "Müller"
+  },
+  "mmrealestate.ch": {
+    "url": "https://www.mmrealestate.ch",
+    "email": "mueller@mmrealestate.ch",
+    "name": "Michel Müller"
+  },
+  "pmarchitects.ch": {
+    "url": "https://www.pmarchitects.ch",
+    "email": "philippe@pmarchitects.ch",
+    "name": "Müller"
+  },
+  "solimo.ch": {
+    "url": "https://www.solimo.ch",
+    "email": "info@solimo.ch",
+    "name": "Fabian Müller"
+  },
+  "markstein.ch": {
+    "url": "https://www.markstein.ch",
+    "email": "michael.naepflin@markstein.ch",
+    "name": "Michael Näpflin"
+  },
+  "neumuellergaerten.ch": {
+    "url": "https://www.neumuellergaerten.ch",
+    "email": "mail@neumuellergaerten.ch",
+    "name": "Neumüller"
+  },
+  "bdo.ch": {
+    "url": "https://www.bdo.ch",
+    "email": "marco.nicoli@bdo.ch",
+    "name": "Marco Nicoli"
+  },
+  "nideroest-gaertner.ch": {
+    "url": "https://www.nideroest-gaertner.ch",
+    "email": "info@nideroest-gaertner.ch",
+    "name": "Niederost Team"
+  },
+  "tsv2001.ch": {
+    "url": "https://www.tsv2001.ch",
+    "email": "la@tsv2001.ch",
+    "name": "Nietlispach"
+  },
+  "gntreuhand.com": {
+    "url": "https://www.gntreuhand.com",
+    "email": "georg.nigg@gntreuhand.com",
+    "name": "Georg Nigg"
+  },
+  "niza.ch": {
+    "url": "https://www.niza.ch",
+    "email": "andry.niggli@niza.ch",
+    "name": "Andry Niggli"
+  },
+  "botanium.ch": {
+    "url": "https://www.botanium.ch",
+    "email": "bjoern@botanium.ch",
+    "name": "Nörgaard"
+  },
+  "noser.immo": {
+    "url": "https://www.noser.immo",
+    "email": "r.noser@noser.immo",
+    "name": "Roger Noser"
+  },
+  "immosky.com": {
+    "url": "https://www.immosky.com",
+    "email": "dominique.nucera@immosky.com",
+    "name": "Dominique Nucera"
+  },
+  "richmonds.ch": {
+    "url": "https://www.richmonds.ch",
+    "email": "dafina.nuhiji@richmonds.ch",
+    "name": "Dafina Nuhiji"
+  },
+  "burgring.ch": {
+    "url": "https://www.burgring.ch",
+    "email": "nussbaum@burgring.ch",
+    "name": "Markus Nussbaum"
+  },
+  "wuw.ch": {
+    "url": "https://www.wuw.ch",
+    "email": "stefanie.oechslin@wuw.ch",
+    "name": "Stefanie Öchslin"
+  },
+  "seeblick-immobilien.ch": {
+    "url": "https://www.seeblick-immobilien.ch",
+    "email": "m.oddo@seeblick-immobilien.ch",
+    "name": "Michele Oddo"
+  },
+  "kit.ch": {
+    "url": "https://www.kit.ch",
+    "email": "j.oertli@kit.ch",
+    "name": "Jill Oertli"
+  },
+  "swissexpatrealtor.com": {
+    "url": "https://www.swissexpatrealtor.com",
+    "email": "info@swissexpatrealtor.com",
+    "name": "Özgür Ogulkanmis"
+  },
+  "innova-immobilien.ch": {
+    "url": "https://www.innova-immobilien.ch",
+    "email": "nelly.olah@innova-immobilien.ch",
+    "name": "Nelly Olah"
+  },
+  "olivo-garten.ch": {
+    "url": "https://www.olivo-garten.ch",
+    "email": "info@olivo-garten.ch",
+    "name": "Olivio"
+  },
+  "immo-diskret.ch": {
+    "url": "https://www.immo-diskret.ch",
+    "email": "info@immo-diskret.ch",
+    "name": "Pasqualino Palmieri"
+  },
+  "blackpanther-immobilien.ch": {
+    "url": "https://www.blackpanther-immobilien.ch",
+    "email": "info@blackpanther-immobilien.ch",
+    "name": "Natalie Parpan"
+  },
+  "dale-peclard.ch": {
+    "url": "https://www.dale-peclard.ch",
+    "email": "pasqualini@dale-peclard.ch",
+    "name": "Luca Pasqualini"
+  },
+  "campagnari-estate.com": {
+    "url": "https://www.campagnari-estate.com",
+    "email": "jp@campagnari-estate.com",
+    "name": "Jessica Céline Paul"
+  },
+  "pellettieri-immobilien.ch": {
+    "url": "https://www.pellettieri-immobilien.ch",
+    "email": "info@pellettieri-immobilien.ch",
+    "name": "Elza Pellettieri"
+  },
+  "fmnn.ch": {
+    "url": "https://www.fmnn.ch",
+    "email": "p.bertholet@fmnn.ch",
+    "name": "Feldmann-Immobilien AG Peter Bertholet"
+  },
+  "swisslife.ch": {
+    "url": "https://www.swisslife.ch",
+    "email": "pascal.pfister@swisslife.ch",
+    "name": "Pascal Pfister"
+  },
+  "pfister-koller.ch": {
+    "url": "https://www.pfister-koller.ch",
+    "email": "daniel.pfister@pfister-koller.ch",
+    "name": "Patrcik Romano Pfister"
+  },
+  "lifestylehomes.ch": {
+    "url": "https://www.lifestylehomes.ch",
+    "email": "annamarie.piacente@lifestylehomes.ch",
+    "name": "Anna Marie Piacente"
+  },
+  "pisanelli.ch": {
+    "url": "https://www.pisanelli.ch",
+    "email": "d.pisanelli@pisanelli.ch",
+    "name": "Pisanelli"
+  },
+  "plueer-partner.ch": {
+    "url": "https://www.plueer-partner.ch",
+    "email": "adrian.plueer@plueer-partner.ch",
+    "name": "Adrian Plüer"
+  },
+  "forrer-gartenbau.ch": {
+    "url": "https://www.forrer-gartenbau.ch",
+    "email": "i.pollak@forrer-gartenbau.ch",
+    "name": "Pollak"
+  },
+  "generali-invest.com": {
+    "url": "https://www.generali-invest.com",
+    "email": "hannah.pomonis@generali-invest.com",
+    "name": "Hannah Pomonis"
+  },
+  "swiss-twinsimmobilien.ch": {
+    "url": "https://www.swiss-twinsimmobilien.ch",
+    "email": "info@swiss-twinsimmobilien.ch",
+    "name": "Marco Porco"
+  },
+  "gartenbau-weber.ch": {
+    "url": "https://www.gartenbau-weber.ch",
+    "email": "info@gartenbau-weber.ch",
+    "name": "Portmann"
+  },
+  "steinhof.ch": {
+    "url": "https://www.steinhof.ch",
+    "email": "aurelien.pralong@steinhof.ch",
+    "name": "Aurélien Pralong"
+  },
+  "privatgaertner.ch": {
+    "url": "https://www.privatgaertner.ch",
+    "email": "info@privatgaertner.ch",
+    "name": "Private Gärtner Team"
+  },
+  "quintimmobilien.ch": {
+    "url": "https://www.quintimmobilien.ch",
+    "email": "info@quintimmobilien.ch",
+    "name": "Quint Immobilien Team"
+  },
+  "3rimmobilien.ch": {
+    "url": "https://www.3rimmobilien.ch",
+    "email": "raebsamen@3rimmobilien.ch",
+    "name": "Othmar Räbsamen"
+  },
+  "raebsamen.ch": {
+    "url": "https://www.raebsamen.ch",
+    "email": "urs.raebsamen@raebsamen.ch",
+    "name": "Urs Harold Räbsamen"
+  },
+  "rre.global": {
+    "url": "https://www.rre.global",
+    "email": "hello@rre.global",
+    "name": "Maria Rachinsky"
+  },
+  "gerama.ch": {
+    "url": "https://www.gerama.ch",
+    "email": "oliver.ragonesi@gerama.ch",
+    "name": "Olivier Ragonesi"
+  },
+  "proply.ch": {
+    "url": "https://www.proply.ch",
+    "email": "nithusan.ragunathan@proply.ch",
+    "name": "Nithusan Ragunathan"
+  },
+  "core-immo.ch": {
+    "url": "https://www.core-immo.ch",
+    "email": "darko.r@core-immo.ch",
+    "name": "Darko Ranogajec"
+  },
+  "aletsch-immobilien.ch": {
+    "url": "https://www.aletsch-immobilien.ch",
+    "email": "info@aletsch-immobilien.ch",
+    "name": "Cina Raoul"
+  },
+  "varias.ch": {
+    "url": "https://www.varias.ch",
+    "email": "stephan.angele@varias.ch",
+    "name": "Michel Raphael"
+  },
+  "recimmo.ch": {
+    "url": "https://www.recimmo.ch",
+    "email": "leonard.reci@recimmo.ch",
+    "name": "Leonard Reci"
+  },
+  "gartenwelten.ch": {
+    "url": "https://www.gartenwelten.ch",
+    "email": "kontakt@gartenwelten.ch",
+    "name": "Reichenbach"
+  },
+  "lookthrough.com": {
+    "url": "https://www.lookthrough.com",
+    "email": "ewald.reichenborn@lookthrough.com",
+    "name": "Ewald Reichenborn"
+  },
+  "margritreichlin.ch": {
+    "url": "https://www.margritreichlin.ch",
+    "email": "mail@margritreichlin.ch",
+    "name": "Margrit Reichlin"
+  },
+  "livista.ch": {
+    "url": "https://www.livista.ch",
+    "email": "info@livista.ch",
+    "name": "Edgar Reichmuth"
+  },
+  "gartenspezialist.ch": {
+    "url": "https://www.gartenspezialist.ch",
+    "email": "info@gartenspezialist.ch",
+    "name": "Reiss"
+  },
+  "reiter-gartenbau.ch": {
+    "url": "https://www.reiter-gartenbau.ch",
+    "email": "info@reiter-gartenbau.ch",
+    "name": "Reiter"
+  },
+  "stmoritz-home.com": {
+    "url": "https://www.stmoritz-home.com",
+    "email": "info@stmoritz-home.com",
+    "name": "Fedederico Remondini"
+  },
+  "gebertgaerten.ch": {
+    "url": "https://www.gebertgaerten.ch",
+    "email": "daut.reshani@gebertgaerten.ch",
+    "name": "Reshani"
+  },
+  "rmp.ch": {
+    "url": "https://www.rmp.ch",
+    "email": "reudt@rmp.ch",
+    "name": "Daniel Reudt"
+  },
+  "buendnermakler.ch": {
+    "url": "https://www.buendnermakler.ch",
+    "email": "a.riesch@buendnermakler.ch",
+    "name": "Alexander Riesch"
+  },
+  "rinderknecht-immo.ch": {
+    "url": "https://www.rinderknecht-immo.ch",
+    "email": "yri@rinderknecht-immo.ch",
+    "name": "Yves Rinderknecht"
+  },
+  "riba-verwaltungen.ch": {
+    "url": "https://www.riba-verwaltungen.ch",
+    "email": "info@riba-verwaltungen.ch",
+    "name": "Thomas Rindlisbacher"
+  },
+  "rischatsch-treuhand.ch": {
+    "url": "https://www.rischatsch-treuhand.ch",
+    "email": "info@rischatsch-treuhand.ch",
+    "name": "Daniel Rischatsch"
+  },
+  "risiimmobilienag.ch": {
+    "url": "https://www.risiimmobilienag.ch",
+    "email": "adrian.risi@risiimmobilienag.ch",
+    "name": "Adrian Risi"
+  },
+  "rizzo-immobilien.ch": {
+    "url": "https://www.rizzo-immobilien.ch",
+    "email": "info@rizzo-immobilien.ch",
+    "name": "Rizzo"
+  },
+  "rocco.ch": {
+    "url": "https://www.rocco.ch",
+    "email": "rocco@rocco.ch",
+    "name": "Annalisa Rocco"
+  },
+  "conceptwohnen.ch": {
+    "url": "https://www.conceptwohnen.ch",
+    "email": "hansueli.rohner@conceptwohnen.ch",
+    "name": "Hansueli Rohner"
+  },
+  "redinvest.ch": {
+    "url": "https://www.redinvest.ch",
+    "email": "anna.roelli@redinvest.ch",
+    "name": "Anna Rölli"
+  },
+  "roellin-garten.ch": {
+    "url": "https://www.roellin-garten.ch",
+    "email": "info@roellin-garten.ch",
+    "name": "Röllin"
+  },
+  "roellinpartner.ch": {
+    "url": "https://www.roellinpartner.ch",
+    "email": "info@roellinpartner.ch",
+    "name": "Brigitte Röllin"
+  },
+  "cristuzzi.ch": {
+    "url": "https://www.cristuzzi.ch",
+    "email": "d.romer@cristuzzi.ch",
+    "name": "Daniel Romer"
+  },
+  "zieglerimmobilien.ch": {
+    "url": "https://www.zieglerimmobilien.ch",
+    "email": "roth@zieglerimmobilien.ch",
+    "name": "Andrei Roth"
+  },
+  "hortis-gaerten.ch": {
+    "url": "https://www.hortis-gaerten.ch",
+    "email": "info@hortis-gaerten.ch",
+    "name": "Roth"
+  },
+  "andrerothag.ch": {
+    "url": "https://www.andrerothag.ch",
+    "email": "pascal.roth@andrerothag.ch",
+    "name": "Pascal Roth"
+  },
+  "rraqiimmobilien.ch": {
+    "url": "https://www.rraqiimmobilien.ch",
+    "email": "br@rraqiimmobilien.ch",
+    "name": "Besa Rraqi"
+  },
+  "rudatestates.ch": {
+    "url": "https://www.rudatestates.ch",
+    "email": "info@rudatestates.ch",
+    "name": "Conrad Rudat"
+  },
+  "peking-garden.ch": {
+    "url": "https://www.peking-garden.ch",
+    "email": "m.rueetschi@peking-garden.ch",
+    "name": "Michael Rüetschi"
+  },
+  "ruflegal.ch": {
+    "url": "https://www.ruflegal.ch",
+    "email": "jr@ruflegal.ch",
+    "name": "Jürg Ruf"
+  },
+  "bacher-gartencenter.ch": {
+    "url": "https://www.bacher-gartencenter.ch",
+    "email": "info@bacher-gartencenter.ch",
+    "name": "Rusterholz"
+  },
+  "ruva.ch": {
+    "url": "https://www.ruva.ch",
+    "email": "v.ruettimann@ruva.ch",
+    "name": "Veronika Rüttiman"
+  },
+  "alvoso-pensionskasse.ch": {
+    "url": "https://www.alvoso-pensionskasse.ch",
+    "email": "daniel.ryf@alvoso-pensionskasse.ch",
+    "name": "Daniel Ryf"
+  },
+  "salirealestate.ch": {
+    "url": "https://www.salirealestate.ch",
+    "email": "arijeta.sali@salirealestate.ch",
+    "name": "Arijeta Saili"
+  },
+  "signisuisse.ch": {
+    "url": "https://www.signisuisse.ch",
+    "email": "e.sallustio@signisuisse.ch",
+    "name": "Emilio Sallustio"
+  },
+  "sandholzer-immobilien.ch": {
+    "url": "https://www.sandholzer-immobilien.ch",
+    "email": "su@sandholzer-immobilien.ch",
+    "name": "Susana Sandholzer"
+  },
+  "immobilien-einsiedeln.ch": {
+    "url": "https://www.immobilien-einsiedeln.ch",
+    "email": "info@immobilien-einsiedeln.ch",
+    "name": "SAT Team"
+  },
+  "schaedeli.ch": {
+    "url": "https://www.schaedeli.ch",
+    "email": "gartenbau@schaedeli.ch",
+    "name": "Schädeli"
+  },
+  "viridis-gartenpflege.ch": {
+    "url": "https://www.viridis-gartenpflege.ch",
+    "email": "schaedeli@viridis-gartenpflege.ch",
+    "name": "Schädeli"
+  },
+  "schapals.ch": {
+    "url": "https://www.schapals.ch",
+    "email": "info@schapals.ch",
+    "name": "Patrick Schapals"
+  },
+  "pripro.ch": {
+    "url": "https://www.pripro.ch",
+    "email": "h.schaeppi@pripro.ch",
+    "name": "Heiner Schäppi"
+  },
+  "acanta-ag.ch": {
+    "url": "https://www.acanta-ag.ch",
+    "email": "reto.schaerer@acanta-ag.ch",
+    "name": "Reto Schärer"
+  },
+  "schaererimmobilien.ch": {
+    "url": "https://www.schaererimmobilien.ch",
+    "email": "info@schaererimmobilien.ch",
+    "name": "Malin Schärer"
+  },
+  "remoimmobilien.ch": {
+    "url": "https://www.remoimmobilien.ch",
+    "email": "remo.schaerer@remoimmobilien.ch",
+    "name": "Remo Schärer"
+  },
+  "wasescha.immobilien": {
+    "url": "https://www.wasescha.immobilien",
+    "email": "info@wasescha.immobilien",
+    "name": "Natascha Schärer"
+  },
+  "gewerbe-treuhand.ch": {
+    "url": "https://www.gewerbe-treuhand.ch",
+    "email": "michael.schaerli@gewerbe-treuhand.ch",
+    "name": "Michael Schärli"
+  },
+  "intusag.ch": {
+    "url": "https://www.intusag.ch",
+    "email": "info@intusag.ch",
+    "name": "Stefan Scheidegger"
+  },
+  "scherrer-gartenpflege.ch": {
+    "url": "https://www.scherrer-gartenpflege.ch",
+    "email": "info@scherrer-gartenpflege.ch",
+    "name": "Scherer"
+  },
+  "latenutamontello.ch": {
+    "url": "https://www.latenutamontello.ch",
+    "email": "info@latenutamontello.ch",
+    "name": "Scherer"
+  },
+  "unitasimmo.ch": {
+    "url": "https://www.unitasimmo.ch",
+    "email": "niklaus.schertenleib@unitasimmo.ch",
+    "name": "Niklaus Schertenleib"
+  },
+  "schickli-gartenbau.ch": {
+    "url": "https://www.schickli-gartenbau.ch",
+    "email": "info@schickli-gartenbau.ch",
+    "name": "Schickli"
+  },
+  "schimmo.ch": {
+    "url": "https://www.schimmo.ch",
+    "email": "sandro.schindler@schimmo.ch",
+    "name": "Sandro Schindler"
+  },
+  "schlaefligartenbau.ch": {
+    "url": "https://www.schlaefligartenbau.ch",
+    "email": "info@schlaefligartenbau.ch",
+    "name": "Schläfli"
+  },
+  "le-ag.ch": {
+    "url": "https://www.le-ag.ch",
+    "email": "philipp.schlatter@le-ag.ch",
+    "name": "Philipp Schlatter"
+  },
+  "schlatter-immobilien.ch": {
+    "url": "https://www.schlatter-immobilien.ch",
+    "email": "schlatter@schlatter-immobilien.ch",
+    "name": "Muriel Schlatter"
+  },
+  "as-immo.ch": {
+    "url": "https://www.as-immo.ch",
+    "email": "as@as-immo.ch",
+    "name": "Andreas Schlecht"
+  },
+  "allcap.ch": {
+    "url": "https://www.allcap.ch",
+    "email": "daniel.schlehan@allcap.ch",
+    "name": "Daniel Schlehan"
+  },
+  "arnoldgartenbau.ch": {
+    "url": "https://www.arnoldgartenbau.ch",
+    "email": "h.schmid@arnoldgartenbau.ch",
+    "name": "Schmid"
+  },
+  "schmid-immo.ch": {
+    "url": "https://www.schmid-immo.ch",
+    "email": "b.schmid@schmid-immo.ch",
+    "name": "Schmid"
+  },
+  "immoreal.ch": {
+    "url": "https://www.immoreal.ch",
+    "email": "info@immoreal.ch",
+    "name": "Caterina Schmidlin"
+  },
+  "schmied-immobilien.ch": {
+    "url": "https://www.schmied-immobilien.ch",
+    "email": "schmied@schmied-immobilien.ch",
+    "name": "Schmied"
+  },
+  "asimmob.ch": {
+    "url": "https://www.asimmob.ch",
+    "email": "o.schmitz@asimmob.ch",
+    "name": "Oliver Schmitz"
+  },
+  "trewim.ch": {
+    "url": "https://www.trewim.ch",
+    "email": "schneeberger@trewim.ch",
+    "name": "Roland Schneeberger"
+  },
+  "liveg.ch": {
+    "url": "https://www.liveg.ch",
+    "email": "d.schneider@liveg.ch",
+    "name": "Desire Schneider"
+  },
+  "pensimo.ch": {
+    "url": "https://www.pensimo.ch",
+    "email": "michel.schneider@pensimo.ch",
+    "name": "Michel Schneider"
+  },
+  "schneiter-treuhand.ch": {
+    "url": "https://www.schneiter-treuhand.ch",
+    "email": "info@schneiter-treuhand.ch",
+    "name": "Max Schneiter"
+  },
+  "grivag.ch": {
+    "url": "https://www.grivag.ch",
+    "email": "michael.schnurrenberger@grivag.ch",
+    "name": "Michael Schnurrenberger"
+  },
+  "schob.ch": {
+    "url": "https://www.schob.ch",
+    "email": "info@schob.ch",
+    "name": "Schob"
+  },
+  "meilenstein.ch": {
+    "url": "https://www.meilenstein.ch",
+    "email": "schoch@meilenstein.ch",
+    "name": "Christian Schoch"
+  },
+  "gartenbau-schoenenberger.ch": {
+    "url": "https://www.gartenbau-schoenenberger.ch",
+    "email": "info@gartenbau-schoenenberger.ch",
+    "name": "Schönenberger Söhne Team"
+  },
+  "thoma-immo.ch": {
+    "url": "https://www.thoma-immo.ch",
+    "email": "dschreiber@thoma-immo.ch",
+    "name": "David Schreiber"
+  },
+  "securfina.ch": {
+    "url": "https://www.securfina.ch",
+    "email": "vs@securfina.ch",
+    "name": "Vanessa Schriber"
+  },
+  "transactionpartner.ch": {
+    "url": "https://www.transactionpartner.ch",
+    "email": "as@transactionpartner.ch",
+    "name": "Andreas Schubert"
+  },
+  "saimo.ch": {
+    "url": "https://www.saimo.ch",
+    "email": "as@saimo.ch",
+    "name": "Schumacher"
+  },
+  "neumarkt17.ch": {
+    "url": "https://www.neumarkt17.ch",
+    "email": "andreas.schwarz@neumarkt17.ch",
+    "name": "Andreas Schwarz"
+  },
+  "prakriti.ch": {
+    "url": "https://www.prakriti.ch",
+    "email": "nicolas@prakriti.ch",
+    "name": "Nicolas Schwarz"
+  },
+  "immo-gap.ch": {
+    "url": "https://www.immo-gap.ch",
+    "email": "marijana@immo-gap.ch",
+    "name": "Schwärzler"
+  },
+  "greenmail.ch": {
+    "url": "https://www.greenmail.ch",
+    "email": "metallbau.schwerzmann@greenmail.ch",
+    "name": "Schwerzmann"
+  },
+  "schwitter.ch": {
+    "url": "https://www.schwitter.ch",
+    "email": "info@schwitter.ch",
+    "name": "Schwitter Team"
+  },
+  "enzian-immobilien.ch": {
+    "url": "https://www.enzian-immobilien.ch",
+    "email": "info@enzian-immobilien.ch",
+    "name": "Beni Schwyter"
+  },
+  "bodomus.ch": {
+    "url": "https://www.bodomus.ch",
+    "email": "seiler@bodomus.ch",
+    "name": "Albert Seiler"
+  },
+  "walde.ch": {
+    "url": "https://www.walde.ch",
+    "email": "melanie.seiler@walde.ch",
+    "name": "Melanie Seiler"
+  },
+  "kiliansenn.ch": {
+    "url": "https://www.kiliansenn.ch",
+    "email": "info@kiliansenn.ch",
+    "name": "Senn"
+  },
+  "brigittesenn.immo": {
+    "url": "https://www.brigittesenn.immo",
+    "email": "senn@brigittesenn.immo",
+    "name": "Brigitte Senn"
+  },
+  "serio-immobilien.ch": {
+    "url": "https://www.serio-immobilien.ch",
+    "email": "info@serio-immobilien.ch",
+    "name": "Claudio Serio"
+  },
+  "gartenbau-rigi.ch": {
+    "url": "https://www.gartenbau-rigi.ch",
+    "email": "info@gartenbau-rigi.ch",
+    "name": "Shendrit Shabanaj"
+  },
+  "sidler-gartenbau.ch": {
+    "url": "https://www.sidler-gartenbau.ch",
+    "email": "info@sidler-gartenbau.ch",
+    "name": "Sidler"
+  },
+  "setimmo.ch": {
+    "url": "https://www.setimmo.ch",
+    "email": "s.siegenthaler@setimmo.ch",
+    "name": "Sandra Siegenthaler"
+  },
+  "thomas-graf.ch": {
+    "url": "https://www.thomas-graf.ch",
+    "email": "s.siegl@thomas-graf.ch",
+    "name": "Sabrina Siegl"
+  },
+  "axalo.com": {
+    "url": "https://www.axalo.com",
+    "email": "natascha.sigg@axalo.com",
+    "name": "Natascha Sigg"
+  },
+  "projekt-interim.ch": {
+    "url": "https://www.projekt-interim.ch",
+    "email": "jayen.simon@projekt-interim.ch",
+    "name": "Jayen Simon"
+  },
+  "liveso.ch": {
+    "url": "https://www.liveso.ch",
+    "email": "info@liveso.ch",
+    "name": "Jürg Sommerhalder"
+  },
+  "soni-gartenbau.ch": {
+    "url": "https://www.soni-gartenbau.ch",
+    "email": "info@soni-gartenbau.ch",
+    "name": "Soni Team"
+  },
+  "swissgartenbau.ch": {
+    "url": "https://www.swissgartenbau.ch",
+    "email": "info@swissgartenbau.ch",
+    "name": "Sopa"
+  },
+  "spalingerimmobilien.ch": {
+    "url": "https://www.spalingerimmobilien.ch",
+    "email": "claudia.spalinger@spalingerimmobilien.ch",
+    "name": "Claudia Spalinger"
+  },
+  "muellerspecht.ch": {
+    "url": "https://www.muellerspecht.ch",
+    "email": "r.s@muellerspecht.ch",
+    "name": "Reto Specht"
+  },
+  "hegglingroup.ch": {
+    "url": "https://www.hegglingroup.ch",
+    "email": "gs@hegglingroup.ch",
+    "name": "Gregor Speck"
+  },
+  "math.ethz.ch": {
+    "url": "https://www.math.ethz.ch",
+    "email": "sperb@math.ethz.ch",
+    "name": "Sperb"
+  },
+  "sam.math.ethz.ch": {
+    "url": "https://www.sam.math.ethz.ch",
+    "email": "rene.sperb@sam.math.ethz.ch",
+    "name": "Rene Peter Sperb"
+  },
+  "swissplaceag.ch": {
+    "url": "https://www.swissplaceag.ch",
+    "email": "a.spillmann@swissplaceag.ch",
+    "name": "Adrian Spielmann"
+  },
+  "sonnenbau.ch": {
+    "url": "https://www.sonnenbau.ch",
+    "email": "jspirig@sonnenbau.ch",
+    "name": "Judith Spirig"
+  },
+  "fsp-properties.ch": {
+    "url": "https://www.fsp-properties.ch",
+    "email": "office@fsp-properties.ch",
+    "name": "Georg Spoerli"
+  },
+  "spoerri-gartenbau.ch": {
+    "url": "https://www.spoerri-gartenbau.ch",
+    "email": "contact@spoerri-gartenbau.ch",
+    "name": "Spörri"
+  },
+  "immo-consult.ch": {
+    "url": "https://www.immo-consult.ch",
+    "email": "info@immo-consult.ch",
+    "name": "Spörri"
+  },
+  "stadelmannpartner.ch": {
+    "url": "https://www.stadelmannpartner.ch",
+    "email": "sibylle.stadelmann@stadelmannpartner.ch",
+    "name": "Sibylle Stadelmann"
+  },
+  "adlac.ch": {
+    "url": "https://www.adlac.ch",
+    "email": "info@adlac.ch",
+    "name": "Jeannine Stählin"
+  },
+  "petenzi.ch": {
+    "url": "https://www.petenzi.ch",
+    "email": "stalder@petenzi.ch",
+    "name": "Ruedi Stalder"
+  },
+  "tuwag.ch": {
+    "url": "https://www.tuwag.ch",
+    "email": "martin.stamm@tuwag.ch",
+    "name": "Martin Stamm"
+  },
+  "staempfligartenbau.ch": {
+    "url": "https://www.staempfligartenbau.ch",
+    "email": "info@staempfligartenbau.ch",
+    "name": "Markus Stämpfli"
+  },
+  "staubgartenbau.ch": {
+    "url": "https://www.staubgartenbau.ch",
+    "email": "info@staubgartenbau.ch",
+    "name": "Staub"
+  },
+  "staub-gaerten.ch": {
+    "url": "https://www.staub-gaerten.ch",
+    "email": "m.staub@staub-gaerten.ch",
+    "name": "Staub"
+  },
+  "swissvalley.ch": {
+    "url": "https://www.swissvalley.ch",
+    "email": "rene.staub@swissvalley.ch",
+    "name": "Rene Staub"
+  },
+  "engadin-rem.ch": {
+    "url": "https://www.engadin-rem.ch",
+    "email": "info@engadin-rem.ch",
+    "name": "Francesco Stazzonell"
+  },
+  "simpel-immobilien.ch": {
+    "url": "https://www.simpel-immobilien.ch",
+    "email": "marco.steiger@simpel-immobilien.ch",
+    "name": "Marco Steiger"
+  },
+  "immox.ch": {
+    "url": "https://www.immox.ch",
+    "email": "info@immox.ch",
+    "name": "Steiger"
+  },
+  "displayactive.ch": {
+    "url": "https://www.displayactive.ch",
+    "email": "marc.steiner@displayactive.ch",
+    "name": "Marc Steiner"
+  },
+  "steinerimmobilien.ch": {
+    "url": "https://www.steinerimmobilien.ch",
+    "email": "info@steinerimmobilien.ch",
+    "name": "Marco Steiner"
+  },
+  "dscasapro.ch": {
+    "url": "https://www.dscasapro.ch",
+    "email": "dragan@dscasapro.ch",
+    "name": "Stevanovic"
+  },
+  "guyan.ch": {
+    "url": "https://www.guyan.ch",
+    "email": "n.stiefel@guyan.ch",
+    "name": "Nadine Stiefel"
+  },
+  "immo10.ch": {
+    "url": "https://www.immo10.ch",
+    "email": "silvio.stieger@immo10.ch",
+    "name": "Silvio Stieger"
+  },
+  "stirnimann.swiss": {
+    "url": "https://www.stirnimann.swiss",
+    "email": "andre@stirnimann.swiss",
+    "name": "André Stirnimann"
+  },
+  "stocker-zug.ch": {
+    "url": "https://www.stocker-zug.ch",
+    "email": "ps@stocker-zug.ch",
+    "name": "Pascal Stocker"
+  },
+  "stoehr-immobilien.ch": {
+    "url": "https://www.stoehr-immobilien.ch",
+    "email": "mail@stoehr-immobilien.ch",
+    "name": "Stöhr"
+  },
+  "hypothekenzentrum.ch": {
+    "url": "https://www.hypothekenzentrum.ch",
+    "email": "ivan.stoiljkovic@hypothekenzentrum.ch",
+    "name": "Ivan Stoiljkovic"
+  },
+  "stoll-trabold.ch": {
+    "url": "https://www.stoll-trabold.ch",
+    "email": "r.stoll@stoll-trabold.ch",
+    "name": "Raphael Stoll"
+  },
+  "stoopimmobilien.ch": {
+    "url": "https://www.stoopimmobilien.ch",
+    "email": "info@stoopimmobilien.ch",
+    "name": "Gina Stoop"
+  },
+  "immobilias.ch": {
+    "url": "https://www.immobilias.ch",
+    "email": "strasser@immobilias.ch",
+    "name": "Franca Strasser"
+  },
+  "casa-immo.ch": {
+    "url": "https://www.casa-immo.ch",
+    "email": "andrea.strasser@casa-immo.ch",
+    "name": "Andrea Strasser"
+  },
+  "straub-partner.ch": {
+    "url": "https://www.straub-partner.ch",
+    "email": "oliver.straub@straub-partner.ch",
+    "name": "Oliver Straub"
+  },
+  "straubundpartner.com": {
+    "url": "https://www.straubundpartner.com",
+    "email": "ps@straubundpartner.com",
+    "name": "Straub"
+  },
+  "nesinco.ch": {
+    "url": "https://www.nesinco.ch",
+    "email": "mail@nesinco.ch",
+    "name": "Straub"
+  },
+  "tellco.ch": {
+    "url": "https://www.tellco.ch",
+    "email": "transaction@tellco.ch",
+    "name": "Jenny Sträuli"
+  },
+  "streichan.ch": {
+    "url": "https://www.streichan.ch",
+    "email": "jenny@streichan.ch",
+    "name": "Jenny Streichan"
+  },
+  "strotzag.ch": {
+    "url": "https://www.strotzag.ch",
+    "email": "mail@strotzag.ch",
+    "name": "Strotz"
+  },
+  "stockag.ch": {
+    "url": "https://www.stockag.ch",
+    "email": "s.struebin@stockag.ch",
+    "name": "Simon Strübin"
+  },
+  "offmarket-immo.ch": {
+    "url": "https://www.offmarket-immo.ch",
+    "email": "d.studer@offmarket-immo.ch",
+    "name": "David Studer"
+  },
+  "tanner-stump.ch": {
+    "url": "https://www.tanner-stump.ch",
+    "email": "info@tanner-stump.ch",
+    "name": "Stump"
+  },
+  "hofstetter-weggis.ch": {
+    "url": "https://www.hofstetter-weggis.ch",
+    "email": "info@hofstetter-weggis.ch",
+    "name": "Sturzenegger"
+  },
+  "immo-sp.ch": {
+    "url": "https://www.immo-sp.ch",
+    "email": "j.stutterheim@immo-sp.ch",
+    "name": "Jerry Stutterheim"
+  },
+  "stutz-gartenbau.ch": {
+    "url": "https://www.stutz-gartenbau.ch",
+    "email": "info@stutz-gartenbau.ch",
+    "name": "Stutz"
+  },
+  "naturgartenwerkstyger.ch": {
+    "url": "https://www.naturgartenwerkstyger.ch",
+    "email": "info@naturgartenwerkstyger.ch",
+    "name": "Styger"
+  },
+  "suriano.immobilien": {
+    "url": "https://www.suriano.immobilien",
+    "email": "stephanie.suriano@suriano.immobilien",
+    "name": "Stefanie Suriano"
+  },
+  "sa-immobilien.ch": {
+    "url": "https://www.sa-immobilien.ch",
+    "email": "info@sa-immobilien.ch",
+    "name": "Jan Suter"
+  },
+  "sutterimmobilien.com": {
+    "url": "https://www.sutterimmobilien.com",
+    "email": "daniel.sutter@sutterimmobilien.com",
+    "name": "Daniel Sutter"
+  },
+  "forster-taddei.ch": {
+    "url": "https://www.forster-taddei.ch",
+    "email": "taddei@forster-taddei.ch",
+    "name": "Nicolo Taddei"
+  },
+  "tanner-gartenbau.ch": {
+    "url": "https://www.tanner-gartenbau.ch",
+    "email": "l.tanner@tanner-gartenbau.ch",
+    "name": "Tanner"
+  },
+  "metro-estates.ch": {
+    "url": "https://www.metro-estates.ch",
+    "email": "info@metro-estates.ch",
+    "name": "Team"
+  },
+  "barrier.ch": {
+    "url": "https://www.barrier.ch",
+    "email": "info@barrier.ch",
+    "name": "Team"
+  },
+  "kressigimmo.ch": {
+    "url": "https://www.kressigimmo.ch",
+    "email": "info@kressigimmo.ch",
+    "name": "Team"
+  },
+  "reoplan.ch": {
+    "url": "https://www.reoplan.ch",
+    "email": "immobilien@reoplan.ch",
+    "name": "Team"
+  },
+  "latreuhand.ch": {
+    "url": "https://www.latreuhand.ch",
+    "email": "info@latreuhand.ch",
+    "name": "Team"
+  },
+  "kaiserpartner.com": {
+    "url": "https://www.kaiserpartner.com",
+    "email": "info@kaiserpartner.com",
+    "name": "Team"
+  },
+  "progressazug.ch": {
+    "url": "https://www.progressazug.ch",
+    "email": "info@progressazug.ch",
+    "name": "Team"
+  },
+  "imvera.ch": {
+    "url": "https://www.imvera.ch",
+    "email": "info@imvera.ch",
+    "name": "Team"
+  },
+  "immovit-zug.ch": {
+    "url": "https://www.immovit-zug.ch",
+    "email": "info@immovit-zug.ch",
+    "name": "Team"
+  },
+  "von-poll.com": {
+    "url": "https://www.von-poll.com",
+    "email": "schweiz@von-poll.com",
+    "name": "Team"
+  },
+  "az-verwaltung.ch": {
+    "url": "https://www.az-verwaltung.ch",
+    "email": "e-mail@az-verwaltung.ch",
+    "name": "Team"
+  },
+  "valitas.ch": {
+    "url": "https://www.valitas.ch",
+    "email": "independa@valitas.ch",
+    "name": "Team"
+  },
+  "uwp.ch": {
+    "url": "https://www.uwp.ch",
+    "email": "info@uwp.ch",
+    "name": "Team"
+  },
+  "skmu.ch": {
+    "url": "https://www.skmu.ch",
+    "email": "vorsorge@skmu.ch",
+    "name": "Team"
+  },
+  "nest-info.ch": {
+    "url": "https://www.nest-info.ch",
+    "email": "info@nest-info.ch",
+    "name": "Team"
+  },
+  "integra-immobilien.ch": {
+    "url": "https://www.integra-immobilien.ch",
+    "email": "info@integra-immobilien.ch",
+    "name": "Team"
+  },
+  "alsapk.ch": {
+    "url": "https://www.alsapk.ch",
+    "email": "info@alsapk.ch",
+    "name": "Team"
+  },
+  "ottima.ch": {
+    "url": "https://www.ottima.ch",
+    "email": "mail@ottima.ch",
+    "name": "Team"
+  },
+  "tissot-immobilien.ch": {
+    "url": "https://www.tissot-immobilien.ch",
+    "email": "info@tissot-immobilien.ch",
+    "name": "Team"
+  },
+  "gnesaimmo.ch": {
+    "url": "https://www.gnesaimmo.ch",
+    "email": "info@gnesaimmo.ch",
+    "name": "Team"
+  },
+  "sae-immobilien.ch": {
+    "url": "https://www.sae-immobilien.ch",
+    "email": "info@sae-immobilien.ch",
+    "name": "Team"
+  },
+  "transparenta.ch": {
+    "url": "https://www.transparenta.ch",
+    "email": "info@transparenta.ch",
+    "name": "Team"
+  },
+  "proparis.ch": {
+    "url": "https://www.proparis.ch",
+    "email": "info@proparis.ch",
+    "name": "Team"
+  },
+  "fundamenta.ch": {
+    "url": "https://www.fundamenta.ch",
+    "email": "info@fundamenta.ch",
+    "name": "Team"
+  },
+  "avanea.ch": {
+    "url": "https://www.avanea.ch",
+    "email": "info@avanea.ch",
+    "name": "Team"
+  },
+  "as-pensionskasse.ch": {
+    "url": "https://www.as-pensionskasse.ch",
+    "email": "info@as-pensionskasse.ch",
+    "name": "Team"
+  },
+  "immoriesbach.ch": {
+    "url": "https://www.immoriesbach.ch",
+    "email": "info@immoriesbach.ch",
+    "name": "Team"
+  },
+  "zugestates.ch": {
+    "url": "https://www.zugestates.ch",
+    "email": "info@zugestates.ch",
+    "name": "Team"
+  },
+  "tempgruppe.ch": {
+    "url": "https://www.tempgruppe.ch",
+    "email": "mail@tempgruppe.ch",
+    "name": "Manuela Thalmann"
+  },
+  "thoma-immobilien.ch": {
+    "url": "https://www.thoma-immobilien.ch",
+    "email": "info@thoma-immobilien.ch",
+    "name": "Silvia Thoma"
+  },
+  "imlerchenfeld.ch": {
+    "url": "https://www.imlerchenfeld.ch",
+    "email": "mthoma@imlerchenfeld.ch",
+    "name": "Marcel Thoma"
+  },
+  "mentorag.ch": {
+    "url": "https://www.mentorag.ch",
+    "email": "thut@mentorag.ch",
+    "name": "Stefan Thut"
+  },
+  "tiliagmbh.ch": {
+    "url": "https://www.tiliagmbh.ch",
+    "email": "gartenpflege@tiliagmbh.ch",
+    "name": "Tilia Team"
+  },
+  "petrus.ag": {
+    "url": "https://www.petrus.ag",
+    "email": "manuel.tobler@petrus.ag",
+    "name": "Manuel Tobler"
+  },
+  "toblerconsult.ch": {
+    "url": "https://www.toblerconsult.ch",
+    "email": "marcel.tobler@toblerconsult.ch",
+    "name": "Marcel Tobler"
+  },
+  "stgp.ch": {
+    "url": "https://www.stgp.ch",
+    "email": "tobler@stgp.ch",
+    "name": "Tobler"
+  },
+  "immoviduell.ch": {
+    "url": "https://www.immoviduell.ch",
+    "email": "verwaltung@immoviduell.ch",
+    "name": "Philippe Tremml"
+  },
+  "troendle-partner.ch": {
+    "url": "https://www.troendle-partner.ch",
+    "email": "carmen@troendle-partner.ch",
+    "name": "Carmen Tröndle"
+  },
+  "inovahome.ch": {
+    "url": "https://www.inovahome.ch",
+    "email": "atrovato@inovahome.ch",
+    "name": "Armando Trovato"
+  },
+  "truemplerpartner.ch": {
+    "url": "https://www.truemplerpartner.ch",
+    "email": "immobilien@truemplerpartner.ch",
+    "name": "Margrit Trümpler"
+  },
+  "truttmann-gartenbau.ch": {
+    "url": "https://www.truttmann-gartenbau.ch",
+    "email": "info@truttmann-gartenbau.ch",
+    "name": "Truttmann"
+  },
+  "saicon.ch": {
+    "url": "https://www.saicon.ch",
+    "email": "v.tscharner@saicon.ch",
+    "name": "Vanessa Tscharner"
+  },
+  "georgfischer.com": {
+    "url": "https://www.georgfischer.com",
+    "email": "tomislav.ugarkovic@georgfischer.com",
+    "name": "Tomsilav Ugarkovic"
+  },
+  "uehlingerimmo.ch": {
+    "url": "https://www.uehlingerimmo.ch",
+    "email": "info@uehlingerimmo.ch",
+    "name": "Thomas Ühlinger"
+  },
+  "impunkt.ch": {
+    "url": "https://www.impunkt.ch",
+    "email": "uehlinger@impunkt.ch",
+    "name": "Ühlinger"
+  },
+  "hotmail.ch": {
+    "url": "https://www.hotmail.ch",
+    "email": "ulrich-gartenbau@hotmail.ch",
+    "name": "Ulrich"
+  },
+  "valaer-immo.ch": {
+    "url": "https://www.valaer-immo.ch",
+    "email": "davos@valaer-immo.ch",
+    "name": "Hans-Jörg Valär"
+  },
+  "c-vanoli.ch": {
+    "url": "https://www.c-vanoli.ch",
+    "email": "e.vanoli@c-vanoli.ch",
+    "name": "Elio Vanoli"
+  },
+  "rothgartenbau.ch": {
+    "url": "https://www.rothgartenbau.ch",
+    "email": "b.villiger@rothgartenbau.ch",
+    "name": "Villiger"
+  },
+  "vollenweider-immobilien.ch": {
+    "url": "https://www.vollenweider-immobilien.ch",
+    "email": "t.vollenweider@vollenweider-immobilien.ch",
+    "name": "Vollenweider"
+  },
+  "casapanorama.ch": {
+    "url": "https://www.casapanorama.ch",
+    "email": "rva@casapanorama.ch",
+    "name": "Roger von Atzingen"
+  },
+  "vonburg-gartenarchitektur.ch": {
+    "url": "https://www.vonburg-gartenarchitektur.ch",
+    "email": "info@vonburg-gartenarchitektur.ch",
+    "name": "Von Burg"
+  },
+  "monkiewitsch.ch": {
+    "url": "https://www.monkiewitsch.ch",
+    "email": "tobias@monkiewitsch.ch",
+    "name": "Tobias von Monkiewitsch"
+  },
+  "vonostheimimmobilien.ch": {
+    "url": "https://www.vonostheimimmobilien.ch",
+    "email": "info@vonostheimimmobilien.ch",
+    "name": "Anastacia von Ostheim"
+  },
+  "immoschwab.ch": {
+    "url": "https://www.immoschwab.ch",
+    "email": "fabienne.voutaz@immoschwab.ch",
+    "name": "Fabienne Voutaz"
+  },
+  "alfina-prefera.ch": {
+    "url": "https://www.alfina-prefera.ch",
+    "email": "p.wachter@alfina-prefera.ch",
+    "name": "Patrizia Wachter Tanner"
+  },
+  "offlist.ch": {
+    "url": "https://www.offlist.ch",
+    "email": "access@offlist.ch",
+    "name": "Benjamin Amos Wagner"
+  },
+  "immobilienkompetenz-gr.ch": {
+    "url": "https://www.immobilienkompetenz-gr.ch",
+    "email": "doris.walder@immobilienkompetenz-gr.ch",
+    "name": "Doris Walder"
+  },
+  "waldmann-immo.ch": {
+    "url": "https://www.waldmann-immo.ch",
+    "email": "info@waldmann-immo.ch",
+    "name": "Waldmann"
+  },
+  "alpropria.ch": {
+    "url": "https://www.alpropria.ch",
+    "email": "info@alpropria.ch",
+    "name": "Erwin Wanger"
+  },
+  "cityparkzug.ch": {
+    "url": "https://www.cityparkzug.ch",
+    "email": "info@cityparkzug.ch",
+    "name": "Waser"
+  },
+  "zakimmo.ch": {
+    "url": "https://www.zakimmo.ch",
+    "email": "info@zakimmo.ch",
+    "name": "Jasmin Weber"
+  },
+  "weber-immo.ch": {
+    "url": "https://www.weber-immo.ch",
+    "email": "info@weber-immo.ch",
+    "name": "Natalie Weber"
+  },
+  "wernersutter.ch": {
+    "url": "https://www.wernersutter.ch",
+    "email": "roger.weber@wernersutter.ch",
+    "name": "Roger Weber"
+  },
+  "dwh-immobilien.ch": {
+    "url": "https://www.dwh-immobilien.ch",
+    "email": "info@dwh-immobilien.ch",
+    "name": "Denis Weber"
+  },
+  "wi-m.ch": {
+    "url": "https://www.wi-m.ch",
+    "email": "dcw@wi-m.ch",
+    "name": "Dominique Weber"
+  },
+  "swissline.ch": {
+    "url": "https://www.swissline.ch",
+    "email": "b.weder@swissline.ch",
+    "name": "Bernhard Eugen Weder"
+  },
+  "business.uzh.ch": {
+    "url": "https://www.business.uzh.ch",
+    "email": "wehrli@business.uzh.ch",
+    "name": "Wehrli"
+  },
+  "helvetia.ch": {
+    "url": "https://www.helvetia.ch",
+    "email": "daniel.wehrli@helvetia.ch",
+    "name": "Daniel Wehrli"
+  },
+  "rwggmbh.ch": {
+    "url": "https://www.rwggmbh.ch",
+    "email": "r.weibel@rwggmbh.ch",
+    "name": "Weibel"
+  },
+  "sw-immo.ch": {
+    "url": "https://www.sw-immo.ch",
+    "email": "info@sw-immo.ch",
+    "name": "Sylvia Weichselbraun"
+  },
+  "seefahrten.net": {
+    "url": "https://www.seefahrten.net",
+    "email": "cornelia.weiss@seefahrten.net",
+    "name": "Cornelia Weiss"
+  },
+  "lienhardt.ch": {
+    "url": "https://www.lienhardt.ch",
+    "email": "vermarktung@lienhardt.ch",
+    "name": "Susanne Weiss"
+  },
+  "monopoly-group.ch": {
+    "url": "https://www.monopoly-group.ch",
+    "email": "l.weiss@monopoly-group.ch",
+    "name": "Lucas Weiss"
+  },
+  "rcooper.ch": {
+    "url": "https://www.rcooper.ch",
+    "email": "romeo.weiss@rcooper.ch",
+    "name": "Romeo Weiss"
+  },
+  "immoweiss.ch": {
+    "url": "https://www.immoweiss.ch",
+    "email": "info@immoweiss.ch",
+    "name": "Gabriela Weiss"
+  },
+  "jordi-liegenschaften.ch": {
+    "url": "https://www.jordi-liegenschaften.ch",
+    "email": "matthias.wenger@jordi-liegenschaften.ch",
+    "name": "Matthias Wenger"
+  },
+  "seitzmeir.ch": {
+    "url": "https://www.seitzmeir.ch",
+    "email": "f.wernli@seitzmeir.ch",
+    "name": "Florian Wernli"
+  },
+  "orgnet.ch": {
+    "url": "https://www.orgnet.ch",
+    "email": "roland.wettstein@orgnet.ch",
+    "name": "Roland Wettstein"
+  },
+  "schule-lachen.ch": {
+    "url": "https://www.schule-lachen.ch",
+    "email": "ofebia.wettstein@schule-lachen.ch",
+    "name": "Wettstein"
+  },
+  "nw-realestate.ch": {
+    "url": "https://www.nw-realestate.ch",
+    "email": "nico@nw-realestate.ch",
+    "name": "Nico Wiatrowski"
+  },
+  "wiagimmobilien.ch": {
+    "url": "https://www.wiagimmobilien.ch",
+    "email": "info@wiagimmobilien.ch",
+    "name": "Anton Wickart"
+  },
+  "sunnmatt.ch": {
+    "url": "https://www.sunnmatt.ch",
+    "email": "rwi@sunnmatt.ch",
+    "name": "Roger Widmer"
+  },
+  "vivoimmobilien.ch": {
+    "url": "https://www.vivoimmobilien.ch",
+    "email": "swi@vivoimmobilien.ch",
+    "name": "Susanne Widmer"
+  },
+  "towi.ch": {
+    "url": "https://www.towi.ch",
+    "email": "thomas.widmer@towi.ch",
+    "name": "Thomas Widmer"
+  },
+  "idz.ch": {
+    "url": "https://www.idz.ch",
+    "email": "daniel.widmer@idz.ch",
+    "name": "Daniel Widmer"
+  },
+  "immowilhelm.ch": {
+    "url": "https://www.immowilhelm.ch",
+    "email": "s.w@immowilhelm.ch",
+    "name": "Stefan Wilhelm"
+  },
+  "blidor.ch": {
+    "url": "https://www.blidor.ch",
+    "email": "peter.villiger@blidor.ch",
+    "name": "Peter Williger"
+  },
+  "zurich.ch": {
+    "url": "https://www.zurich.ch",
+    "email": "andika.willyanto@zurich.ch",
+    "name": "Andika Willyanto"
+  },
+  "pilze.ch": {
+    "url": "https://www.pilze.ch",
+    "email": "winkler@pilze.ch",
+    "name": "Rudolf Winkler"
+  },
+  "green-living-space.ch": {
+    "url": "https://www.green-living-space.ch",
+    "email": "info@green-living-space.ch",
+    "name": "Wittwer"
+  },
+  "wooimmo.ch": {
+    "url": "https://www.wooimmo.ch",
+    "email": "woodtli@wooimmo.ch",
+    "name": "Roland Woodtli"
+  },
+  "goodliving.ch": {
+    "url": "https://www.goodliving.ch",
+    "email": "michael.woodtli@goodliving.ch",
+    "name": "Michael Woodtli"
+  },
+  "woroimmo.ch": {
+    "url": "https://www.woroimmo.ch",
+    "email": "stefan.worofsky@woroimmo.ch",
+    "name": "Stefan Worofsky"
+  },
+  "wuhrmann-immo.ch": {
+    "url": "https://www.wuhrmann-immo.ch",
+    "email": "a.wuhrmann@wuhrmann-immo.ch",
+    "name": "Albina Wuhrmann"
+  },
+  "wuhrmanngarten.ch": {
+    "url": "https://www.wuhrmanngarten.ch",
+    "email": "m.wuhrmann@wuhrmanngarten.ch",
+    "name": "Wuhrmann"
+  },
+  "mgb.ch": {
+    "url": "https://www.mgb.ch",
+    "email": "matthias.wunderlin@mgb.ch",
+    "name": "Matthias Wunderlin"
+  },
+  "wuethrich-immobilien.ch": {
+    "url": "https://www.wuethrich-immobilien.ch",
+    "email": "wuethrich@wuethrich-immobilien.ch",
+    "name": "Mario Wüthrich"
+  },
+  "agenturwyss.ch": {
+    "url": "https://www.agenturwyss.ch",
+    "email": "aw@agenturwyss.ch",
+    "name": "Remo Wyss"
+  },
+  "wyss-immobilienberatung.ch": {
+    "url": "https://www.wyss-immobilienberatung.ch",
+    "email": "rw@wyss-immobilienberatung.ch",
+    "name": "Rene Wyss"
+  },
+  "wyssliegenschaften.ch": {
+    "url": "https://www.wyssliegenschaften.ch",
+    "email": "team@wyssliegenschaften.ch",
+    "name": "Michel Wyss"
+  },
+  "immowyss.ch": {
+    "url": "https://www.immowyss.ch",
+    "email": "marc.wyss@immowyss.ch",
+    "name": "Marc Wyss"
+  },
+  "newprop.ch": {
+    "url": "https://www.newprop.ch",
+    "email": "markus.wyss@newprop.ch",
+    "name": "Markus Wyss"
+  },
+  "nextlevelimmobilien.ch": {
+    "url": "https://www.nextlevelimmobilien.ch",
+    "email": "info@nextlevelimmobilien.ch",
+    "name": "Dalyan Yorulmaz"
+  },
+  "azimmobilien.ch": {
+    "url": "https://www.azimmobilien.ch",
+    "email": "az@azimmobilien.ch",
+    "name": "Andreas Zäch"
+  },
+  "zanellaimmobilien.ch": {
+    "url": "https://www.zanellaimmobilien.ch",
+    "email": "zanella@zanellaimmobilien.ch",
+    "name": "Cecile Zanella"
+  },
+  "remax.ch": {
+    "url": "https://www.remax.ch",
+    "email": "jennifer.zanoni@remax.ch",
+    "name": "Jennifer Zanoni"
+  },
+  "zanuco-treuhand.ch": {
+    "url": "https://www.zanuco-treuhand.ch",
+    "email": "info@zanuco-treuhand.ch",
+    "name": "Zanuco"
+  },
+  "seejuwel.com": {
+    "url": "https://www.seejuwel.com",
+    "email": "d.zapf@seejuwel.com",
+    "name": "Deborah Zapf"
+  },
+  "zeberli-immobilien.ch": {
+    "url": "https://www.zeberli-immobilien.ch",
+    "email": "fabienne.zeberli@zeberli-immobilien.ch",
+    "name": "Fabienne Zeberli"
+  },
+  "zehnder-garten.ch": {
+    "url": "https://www.zehnder-garten.ch",
+    "email": "info@zehnder-garten.ch",
+    "name": "Zehnder"
+  },
+  "brofin.ch": {
+    "url": "https://www.brofin.ch",
+    "email": "sz@brofin.ch",
+    "name": "Shenem Zejnoski"
+  },
+  "vzch.com": {
+    "url": "https://www.vzch.com",
+    "email": "petra.zen-ruffinen@vzch.com",
+    "name": "Petra Zen"
+  },
+  "zeni-immobilien.ch": {
+    "url": "https://www.zeni-immobilien.ch",
+    "email": "zeni@zeni-immobilien.ch",
+    "name": "Zeni"
+  },
+  "zentralimmobilien.ch": {
+    "url": "https://www.zentralimmobilien.ch",
+    "email": "info@zentralimmobilien.ch",
+    "name": "Zentral Immobilien Team"
+  },
+  "libera.ch": {
+    "url": "https://www.libera.ch",
+    "email": "invor@libera.ch",
+    "name": "Peter Zgraggen"
+  },
+  "zg-garten.ch": {
+    "url": "https://www.zg-garten.ch",
+    "email": "info@zg-garten.ch",
+    "name": "Zhushi"
+  },
+  "tabt.ch": {
+    "url": "https://www.tabt.ch",
+    "email": "mathias.zika@tabt.ch",
+    "name": "Mathias Zika"
+  },
+  "zimmermann-garten.ch": {
+    "url": "https://www.zimmermann-garten.ch",
+    "email": "info@zimmermann-garten.ch",
+    "name": "Zimmermann"
+  },
+  "zimba.ch": {
+    "url": "https://www.zimba.ch",
+    "email": "dani@zimba.ch",
+    "name": "Daniel Zimmermann"
+  },
+  "zingg-immobilien.de": {
+    "url": "https://www.zingg-immobilien.de",
+    "email": "info@zingg-immobilien.de",
+    "name": "Zingg"
+  },
+  "zollinger.ch": {
+    "url": "https://www.zollinger.ch",
+    "email": "hans-rudolf.zollinger@zollinger.ch",
+    "name": "Hans Zollinger"
+  },
+  "adatta-immobilien.ch": {
+    "url": "https://www.adatta-immobilien.ch",
+    "email": "reto.zollinger@adatta-immobilien.ch",
+    "name": "Reto Zollinger"
+  },
+  "exclusiveestate.ch": {
+    "url": "https://www.exclusiveestate.ch",
+    "email": "info@exclusiveestate.ch",
+    "name": "Michele Zumbühl"
+  },
+  "zumbuehl-immobilien.ch": {
+    "url": "https://www.zumbuehl-immobilien.ch",
+    "email": "info@zumbuehl-immobilien.ch",
+    "name": "Zumbühl"
+  },
+  "lakexclusive.com": {
+    "url": "https://www.lakexclusive.com",
+    "email": "info@lakexclusive.com",
+    "name": "Kruno Zuparic"
+  },
+  "zurbuchenpartner.ch": {
+    "url": "https://www.zurbuchenpartner.ch",
+    "email": "maria.zurbuchen@zurbuchenpartner.ch",
+    "name": "Maria Zurbuchen"
+  },
+  "kipro-ag.ch": {
+    "url": "https://www.kipro-ag.ch",
+    "email": "manuela.zuercher@kipro-ag.ch",
+    "name": "Manuela Zürcher"
+  },
+  "bruderundzweifel.ch": {
+    "url": "https://www.bruderundzweifel.ch",
+    "email": "info@bruderundzweifel.ch",
+    "name": "Zweifel"
+  },
+  "zp-law.ch": {
+    "url": "https://www.zp-law.ch",
+    "email": "m.zwicky@zp-law.ch",
+    "name": "Markus Zwicky"
+  }
+}
